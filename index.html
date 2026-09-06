@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>中文生词学习 2026 · Chinese Glossary Web Tool</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Top App Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand-group">
+        <div class="brand-icon">文</div>
+        <div class="brand-titles">
+          <h1>Chinese Glossary 2026</h1>
+          <div class="subtitle">中文生词教学与学习交互工具 · 语言教学材料制作专家出品</div>
+        </div>
+      </div>
+
+      <!-- Global Preference Controls -->
+      <div class="global-controls">
+        <div class="control-pill" title="切换正文字形显示规范">
+          <span>字形:</span>
+          <select id="select-char-mode">
+            <option value="simp">简体中文 (Simplified)</option>
+            <option value="trad">繁體中文 (Traditional)</option>
+          </select>
+        </div>
+
+        <div class="control-pill" title="控制拼音提示脚手架">
+          <label class="toggle-switch-label">
+            <input type="checkbox" id="checkbox-show-pinyin" checked>
+            <span>显示拼音 (Pinyin)</span>
+          </label>
+        </div>
+
+        <div class="control-pill" title="调整语音播放速度">
+          <span>语速:</span>
+          <select id="select-speech-rate">
+            <option value="0.75">0.75x (慢速跟读)</option>
+            <option value="1.0" selected>1.0x (标准原速)</option>
+            <option value="1.25">1.25x (快速辨音)</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Navigation Tabs -->
+  <nav class="nav-tabs-wrapper">
+    <div class="nav-tabs-container">
+      <button class="nav-tab-btn active" data-tab="pane-glossary">
+        <span>📖 词库全览 (Glossary)</span>
+        <span class="badge-count" id="badge-glossary-count">14</span>
+      </button>
+      <button class="nav-tab-btn" data-tab="pane-flashcards">
+        <span>📇 智能闪卡 (Flashcards)</span>
+        <span class="badge-count" id="badge-flashcard-count">14</span>
+      </button>
+      <button class="nav-tab-btn" data-tab="pane-quiz">
+        <span>🎯 随堂练习 (Quiz & Games)</span>
+      </button>
+      <button class="nav-tab-btn" data-tab="pane-worksheet">
+        <span>🖨️ 打印单生成器 (Printable Sheets)</span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main Content Area -->
+  <main class="app-main">
+
+    <!-- ====================================================================
+         TAB 1: 词库全览 (Glossary View)
+         ==================================================================== -->
+    <section id="pane-glossary" class="tab-pane active">
+      <div class="table-toolbar">
+        <div class="search-filter-group">
+          <div class="search-input-wrapper">
+            <span class="search-icon-decor">🔍</span>
+            <input type="text" id="table-search-input" placeholder="实时搜索汉字、拼音、英文单词或释义..." autocomplete="off">
+          </div>
+          <select id="filter-status" class="btn btn-secondary" style="padding: 0.55rem 0.85rem;">
+            <option value="all">全部词汇 (All)</option>
+            <option value="review">重点复习 (Need Review)</option>
+            <option value="mastered">已掌握 (Mastered)</option>
+          </select>
+        </div>
+
+        <div class="action-buttons-group">
+          <button class="btn btn-primary" id="btn-open-add-modal">
+            <span>+</span> 智能添加生词
+          </button>
+          <button class="btn btn-secondary" id="btn-export-data" title="导出为 CSV / Anki / JSON">
+            <span>📥</span> 导出词库
+          </button>
+          <button class="btn btn-secondary" id="btn-reset-data" title="恢复出厂 2026 词库">
+            <span>↺</span> 重置默认
+          </button>
+        </div>
+      </div>
+
+      <div class="table-card">
+        <div class="glossary-table-responsive">
+          <table class="glossary-table">
+            <thead>
+              <tr>
+                <th style="width: 45px; text-align: center;">#</th>
+                <th>中文生词 (Chinese)</th>
+                <th>汉语拼音 (Pinyin)</th>
+                <th>英文单词 (Word)</th>
+                <th>词典释义 (Definition)</th>
+                <th>扩展资源 (Resources)</th>
+                <th style="text-align: right;">掌握状态 / 操作</th>
+              </tr>
+            </thead>
+            <tbody id="glossary-table-body">
+              <!-- Dynamically populated by app.js -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         TAB 2: 双语智能翻转闪卡 (Flashcards)
+         ==================================================================== -->
+    <section id="pane-flashcards" class="tab-pane">
+      <div class="flashcard-wrapper">
+        <div class="flashcard-controls-top">
+          <div style="display: flex; gap: 0.75rem; align-items: center;">
+            <span style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-500);">学习模式:</span>
+            <select id="select-card-mode" class="control-pill" style="border:none; padding: 0.25rem 0.5rem;">
+              <option value="EN_TO_ZH">英译汉 (English → Chinese)</option>
+              <option value="ZH_TO_EN">汉译英 (Chinese → English)</option>
+              <option value="AUDIO_TO_ZH">听音辨字 (Listening Mode)</option>
+            </select>
+          </div>
+
+          <div style="display: flex; gap: 0.75rem; align-items: center;">
+            <span style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-500);">卡片范围:</span>
+            <select id="select-card-deck-filter" class="control-pill" style="border:none; padding: 0.25rem 0.5rem;">
+              <option value="all">全部词汇</option>
+              <option value="review">重点复习</option>
+              <option value="mastered">已掌握</option>
+            </select>
+            <span id="card-progress-text" style="font-size: 0.9rem; font-weight: 700; color: var(--primary-teal);">1 / 14</span>
+          </div>
+        </div>
+
+        <div class="progress-bar-container">
+          <div class="progress-bar-fill" id="flashcard-progress-fill"></div>
+        </div>
+
+        <!-- 3D Card Scene -->
+        <div class="card-scene" id="flashcard-scene" title="点击或按空格翻转卡片">
+          <div class="flashcard-inner" id="flashcard-inner">
+            <div class="card-face card-face-front" id="card-face-front">
+              <!-- Front Content -->
+            </div>
+            <div class="card-face card-face-back" id="card-face-back">
+              <!-- Back Content -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Card Control Buttons -->
+        <div class="flashcard-actions">
+          <div class="flashcard-nav-btns">
+            <button class="btn btn-secondary" id="btn-prev-card">← 上一张</button>
+            <button class="btn btn-secondary" id="btn-next-card">下一张 →</button>
+          </div>
+          <div class="flashcard-mastery-btns">
+            <button class="btn btn-amber" id="btn-mark-review">☆ 需复习 (Review)</button>
+            <button class="btn btn-success" id="btn-mark-mastered">★ 已掌握 (Mastered)</button>
+          </div>
+        </div>
+
+        <div class="keyboard-hints">
+          快捷键提示：按 <kbd>Space</kbd> 翻转卡片 ｜ 按 <kbd>←</kbd> / <kbd>→</kbd> 切换词汇 ｜ 按 <kbd>P</kbd> 播放发音
+        </div>
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         TAB 3: 随堂练习与自测 (Quiz & Games)
+         ==================================================================== -->
+    <section id="pane-quiz" class="tab-pane">
+      <div class="quiz-wrapper">
+        <div class="quiz-subtabs">
+          <button class="quiz-subtab-btn active" data-quiz="mc">📝 随堂四选一测验 (Multiple Choice)</button>
+          <button class="quiz-subtab-btn" data-quiz="match">🧩 记忆配对连连看 (Match Game)</button>
+        </div>
+
+        <!-- Sub-view 1: Multiple Choice Quiz -->
+        <div id="quiz-mc-view">
+          <div class="quiz-card">
+            <!-- Active Question Box -->
+            <div id="quiz-question-box">
+              <div class="quiz-header">
+                <span class="control-pill" id="quiz-progress-badge">题目 1 / 10</span>
+                <span class="quiz-score-badge" id="quiz-score-badge">得分: 0</span>
+              </div>
+
+              <div class="quiz-prompt-box">
+                <div class="quiz-prompt-type" id="quiz-prompt-type">看中文选择正确的英文释义</div>
+                <div class="quiz-prompt-text" id="quiz-prompt-text">大学</div>
+                <div class="quiz-prompt-pinyin" id="quiz-prompt-pinyin">dà xué</div>
+                <div style="margin-top: 0.5rem;">
+                  <button class="btn-audio" id="quiz-audio-btn" title="朗读读音">🔊</button>
+                </div>
+              </div>
+
+              <div class="quiz-options-grid" id="quiz-options-grid">
+                <!-- 4 Options rendered by JS -->
+              </div>
+
+              <div id="quiz-feedback-box" class="quiz-feedback-box"></div>
+
+              <div style="text-align: right;">
+                <button class="btn btn-primary" id="btn-quiz-next" style="display: none;">下一题 →</button>
+              </div>
+            </div>
+
+            <!-- Quiz Result Box -->
+            <div id="quiz-result-box" style="display: none; text-align: center; padding: 2rem 1rem;">
+              <div style="font-size: 3.5rem; margin-bottom: 1rem;">🏆</div>
+              <h2 style="font-size: 1.8rem; margin-bottom: 0.5rem; color: var(--text-slate-900);">测验完成！</h2>
+              <div id="quiz-final-eval" style="font-size: 1.1rem; color: var(--text-slate-600); margin-bottom: 1.5rem;"></div>
+              <div style="font-size: 2.5rem; font-weight: 800; color: var(--primary-teal); margin-bottom: 2rem;" id="quiz-final-score">
+                100 / 100
+              </div>
+              <button class="btn btn-primary" id="btn-restart-quiz" style="padding: 0.75rem 2rem; font-size: 1rem;">
+                🔄 重新开始测验
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Sub-view 2: Match Game -->
+        <div id="quiz-match-view" style="display: none;">
+          <div class="match-game-wrapper">
+            <div class="match-stats-bar">
+              <div>操作步数：<span id="match-moves-count" style="color: var(--primary-teal);">0</span></div>
+              <div>游戏用时：<span id="match-timer-text" style="color: var(--primary-teal);">0 秒</span></div>
+              <button class="btn btn-sm btn-secondary" id="btn-restart-match">重新发牌</button>
+            </div>
+
+            <div id="match-success-banner" style="display: none; width: 100%; max-width: 720px; background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; padding: 1rem; border-radius: var(--radius-md); text-align: center; margin-bottom: 1rem; font-weight: 700;"></div>
+
+            <div class="match-grid" id="match-grid">
+              <!-- 12 Match Cards rendered by JS -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ====================================================================
+         TAB 4: 教师专用：练习纸与打印单生成器 (Printable Sheets)
+         ==================================================================== -->
+    <section id="pane-worksheet" class="tab-pane">
+      <div class="worksheet-config-card">
+        <div class="config-row">
+          <div class="config-options">
+            <div>
+              <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-700); margin-right: 0.5rem;">练习单类型:</label>
+              <select id="select-worksheet-type" class="control-pill">
+                <option value="tianzige">汉字规范田字格描红练习单 (Writing Practice)</option>
+                <option value="quiz">随堂评估测验卷 (Quiz Worksheet)</option>
+                <option value="cutout">双语便携复习裁切卡 (Cut-out Flashcards)</option>
+              </select>
+            </div>
+
+            <div>
+              <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-700); margin-right: 0.5rem;">词汇范围:</label>
+              <select id="select-worksheet-filter" class="control-pill">
+                <option value="all">全部词汇 (14词)</option>
+                <option value="review">仅需复习的生词</option>
+                <option value="mastered">仅已掌握的生词</option>
+              </select>
+            </div>
+          </div>
+
+          <div>
+            <button class="btn btn-primary" id="btn-print-worksheet" style="padding: 0.65rem 1.5rem; font-size: 0.95rem;">
+              <span>🖨️</span> 立即打印 / 导出为 PDF
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Printable A4 Preview Container -->
+      <div class="print-preview-container">
+        <div class="printable-sheet" id="printable-sheet-content">
+          <!-- Dynamic Worksheet HTML rendered by app.js -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ====================================================================
+       Modal: 智能添加与编辑生词 (Smart Add Modal)
+       ==================================================================== -->
+  <div class="modal-overlay" id="modal-add-word">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>+ 智能添加中文生词</h3>
+        <button class="modal-close-btn" id="btn-close-add-modal">&times;</button>
+      </div>
+
+      <form id="form-add-word">
+        <div class="modal-body">
+          <div class="form-group">
+            <label for="modal-input-word">
+              英文单词 (Word)
+              <span style="color: var(--primary-teal); font-weight: normal; font-size: 0.75rem; margin-left: 0.5rem;">
+                *输入英文可自动联想补全表格
+              </span>
+            </label>
+            <input type="text" id="modal-input-word" placeholder="例如：telescope, library, school..." required autofocus>
+            <div id="modal-autofill-indicator" style="font-size: 0.75rem; margin-top: 4px; display: none;"></div>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="modal-input-simp">简体中文 (Simplified) *</label>
+              <input type="text" id="modal-input-simp" placeholder="例如：望远镜" required>
+            </div>
+            <div class="form-group">
+              <label for="modal-input-trad">繁體中文 (Traditional)</label>
+              <input type="text" id="modal-input-trad" placeholder="例如：望遠鏡">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="modal-input-pinyin">汉语拼音带调 (Pinyin)</label>
+            <input type="text" id="modal-input-pinyin" placeholder="例如：wàng yuǎn jìng">
+          </div>
+
+          <div class="form-group">
+            <label for="modal-input-def">英文释义 (English Definition)</label>
+            <textarea id="modal-input-def" rows="2" placeholder="an optical instrument designed to make distant objects appear nearer..."></textarea>
+          </div>
+
+          <div class="form-group">
+            <label for="modal-input-cdef">中文简释 (Chinese Definition)</label>
+            <input type="text" id="modal-input-cdef" placeholder="观察远方物体的光学仪器">
+          </div>
+
+          <div class="form-group">
+            <label for="modal-input-tags">分类标签 (Tags)</label>
+            <input type="text" id="modal-input-tags" placeholder="例如：科学, 工具, 天文 (用逗号分隔)">
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" id="btn-cancel-add-modal">取消</button>
+          <button type="submit" class="btn btn-primary">保存并添加到词库</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/data.js"></script>
+  <script src="js/pinyin_dict.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
