@@ -50,9 +50,28 @@
     loadGlossaryData();
     setupEventListeners();
     updateUIFromSettings();
+    populateWordSuggestions();
     renderGlossaryTable();
     updateBadgeCounts();
     initVoices();
+  }
+
+  function populateWordSuggestions() {
+    const datalist = document.getElementById('word-suggestions');
+    if (!datalist) return;
+    datalist.innerHTML = '';
+    const frag = document.createDocumentFragment();
+    const seen = new Set();
+    glossaryData.forEach(item => {
+      if (item.word && !seen.has(item.word.toLowerCase())) {
+        seen.add(item.word.toLowerCase());
+        const opt = document.createElement('option');
+        opt.value = item.word;
+        opt.label = `${item.simp} (${item.pinyin || ''})`;
+        frag.appendChild(opt);
+      }
+    });
+    datalist.appendChild(frag);
   }
 
   // --- Local Storage Management ---
@@ -76,17 +95,38 @@
   }
 
   function loadGlossaryData() {
+    const masterList = (typeof getMasterVocabulary === 'function')
+      ? getMasterVocabulary()
+      : (typeof DEFAULT_GLOSSARY_DATA !== 'undefined' ? DEFAULT_GLOSSARY_DATA : []);
+
     try {
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved) {
-        glossaryData = JSON.parse(saved);
+        const savedList = JSON.parse(saved);
+        // Build map of saved mastery status & keep any custom words
+        const savedMap = new Map();
+        const customWords = [];
+        for (const item of savedList) {
+          if (item.id && (item.id.startsWith('word_') || item.id.startsWith('ap_') || item.id.startsWith('u0_') || item.id.startsWith('intro_'))) {
+            savedMap.set(item.id, item.mastered);
+          } else {
+            customWords.push(item);
+          }
+        }
+        // Clone masterList and apply saved mastery status
+        glossaryData = masterList.map(item => ({
+          ...item,
+          mastered: savedMap.has(item.id) ? !!savedMap.get(item.id) : (item.mastered || false)
+        }));
+        // Append user-created custom words
+        glossaryData.push(...customWords);
       } else {
-        glossaryData = JSON.parse(JSON.stringify(DEFAULT_GLOSSARY_DATA));
+        glossaryData = JSON.parse(JSON.stringify(masterList));
         saveGlossaryData();
       }
     } catch (e) {
       console.error('Error loading glossary data', e);
-      glossaryData = JSON.parse(JSON.stringify(DEFAULT_GLOSSARY_DATA));
+      glossaryData = JSON.parse(JSON.stringify(masterList));
     }
   }
 
@@ -100,11 +140,15 @@
   }
 
   function resetGlossaryData() {
-    if (confirm('确定要恢复为《Chinese Glossary 2026》原始出厂词库吗？您新增的词汇将被重置。')) {
-      glossaryData = JSON.parse(JSON.stringify(DEFAULT_GLOSSARY_DATA));
+    if (confirm('确定要恢复为《Chinese Glossary 2026》及 AP Chinese Unit 1-6 完整词库（共 728 词）吗？您自建的新增词汇将被重置。')) {
+      const masterList = (typeof getMasterVocabulary === 'function')
+        ? getMasterVocabulary()
+        : DEFAULT_GLOSSARY_DATA;
+      glossaryData = JSON.parse(JSON.stringify(masterList));
       saveGlossaryData();
+      populateWordSuggestions();
       renderGlossaryTable();
-      showToast('已成功恢复原始 2026 词库！');
+      showToast('已成功恢复出厂 728 词完整词库！');
     }
   }
 
@@ -207,6 +251,13 @@
       });
     }
 
+    const filterUnit = document.getElementById('filter-unit');
+    if (filterUnit) {
+      filterUnit.addEventListener('change', () => {
+        renderGlossaryTable();
+      });
+    }
+
     // Smart Add Modal
     const btnOpenAddModal = document.getElementById('btn-open-add-modal');
     if (btnOpenAddModal) {
@@ -229,14 +280,32 @@
     }
 
     // Smart Auto Complete Trigger in Modal
+    const btnTriggerAutoFill = document.getElementById('btn-trigger-autofill');
+    if (btnTriggerAutoFill) {
+      btnTriggerAutoFill.addEventListener('click', () => {
+        const val = document.getElementById('modal-input-word')?.value;
+        handleSmartAutoFill(val, true);
+      });
+    }
+
     const inputWord = document.getElementById('modal-input-word');
     if (inputWord) {
       let debounceTimer = null;
       inputWord.addEventListener('input', () => {
         clearTimeout(debounceTimer);
         debounceTimer = setTimeout(() => {
-          handleSmartAutoFill(inputWord.value);
-        }, 300);
+          handleSmartAutoFill(inputWord.value, true);
+        }, 350);
+      });
+      inputWord.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          clearTimeout(debounceTimer);
+          handleSmartAutoFill(inputWord.value, true);
+        }
+      });
+      inputWord.addEventListener('change', () => {
+        handleSmartAutoFill(inputWord.value, true);
       });
     }
 
@@ -297,6 +366,16 @@
       });
     }
 
+    const selectCardUnit = document.getElementById('select-card-unit');
+    if (selectCardUnit) {
+      selectCardUnit.addEventListener('change', () => {
+        buildFlashcardDeck();
+        currentCardIndex = 0;
+        isCardFlipped = false;
+        renderFlashcard();
+      });
+    }
+
     // Keyboard Shortcuts for Flashcards
     window.addEventListener('keydown', (e) => {
       if (settings.activeTab !== 'pane-flashcards') return;
@@ -335,6 +414,17 @@
       });
     });
 
+    const selectQuizUnit = document.getElementById('select-quiz-unit');
+    if (selectQuizUnit) {
+      selectQuizUnit.addEventListener('change', () => {
+        if (currentQuizType === 'mc') {
+          initMultipleChoiceQuiz();
+        } else {
+          initMatchGame();
+        }
+      });
+    }
+
     // Quiz Restart Button
     const btnRestartQuiz = document.getElementById('btn-restart-quiz');
     if (btnRestartQuiz) {
@@ -354,6 +444,11 @@
         worksheetType = e.target.value;
         renderWorksheet();
       });
+    }
+
+    const selectWorksheetUnit = document.getElementById('select-worksheet-unit');
+    if (selectWorksheetUnit) {
+      selectWorksheetUnit.addEventListener('change', renderWorksheet);
     }
 
     const selectWorksheetFilter = document.getElementById('select-worksheet-filter');
@@ -445,8 +540,15 @@
 
     const query = (document.getElementById('table-search-input')?.value || '').trim().toLowerCase();
     const filter = document.getElementById('filter-status')?.value || 'all';
+    const unitFilter = document.getElementById('filter-unit')?.value || 'all';
 
     const filtered = glossaryData.filter(item => {
+      // Filter unit
+      if (unitFilter !== 'all') {
+        const itemUnit = item.unitId || 'u0';
+        if (itemUnit !== unitFilter && !(unitFilter === 'u0' && itemUnit === 'core')) return false;
+      }
+
       // Filter status
       if (filter === 'mastered' && !item.mastered) return false;
       if (filter === 'review' && item.mastered) return false;
@@ -459,7 +561,9 @@
       const matchPinyin = item.pinyin && item.pinyin.toLowerCase().includes(query);
       const matchDef = item.definition && item.definition.toLowerCase().includes(query);
       const matchCDef = item.chineseDef && item.chineseDef.includes(query);
-      return matchWord || matchSimp || matchTrad || matchPinyin || matchDef || matchCDef;
+      const matchUnit = (item.unitZh && item.unitZh.toLowerCase().includes(query)) ||
+                        (item.unit && item.unit.toLowerCase().includes(query));
+      return matchWord || matchSimp || matchTrad || matchPinyin || matchDef || matchCDef || matchUnit;
     });
 
     tbody.innerHTML = '';
@@ -481,6 +585,12 @@
       const primaryHanzi = settings.charMode === 'simp' ? item.simp : (item.trad || item.simp);
       const secondaryHanzi = settings.charMode === 'simp' ? (item.trad || item.simp) : item.simp;
 
+      // Unit badge
+      const unitClass = `badge-unit badge-unit-${item.unitId || 'u0'}`;
+      const unitTagHtml = item.unitZh
+        ? `<div style="margin-top: 5px;"><span class="${unitClass}">${item.unitZh}</span></div>`
+        : '';
+
       // Pronunciation link to Wiktionary (as in original sheet)
       const wiktionaryLink = `https://zh.wiktionary.org/zh-hans/${encodeURIComponent(item.trad || item.simp)}`;
       // Image search link to Google Images (as in original sheet)
@@ -494,12 +604,13 @@
         </td>
         <td>
           <div class="chinese-cell">
-            <span>${primaryHanzi}</span>
+            <span style="font-size: 1.15rem; font-weight: 700;">${primaryHanzi}</span>
             <span class="chinese-secondary" title="对应繁/简">${secondaryHanzi}</span>
             <button class="btn-audio" data-id="${item.id}" title="朗读普通话发音" aria-label="朗读中文">
               🔊
             </button>
           </div>
+          ${unitTagHtml}
         </td>
         <td>
           <span class="${pinyinClass}" title="${settings.showPinyin ? '' : '点击悬浮临时查看'}">
@@ -571,13 +682,42 @@
   }
 
   // --- Smart Add Modal & Auto-Fill Engine ---
+  let currentAutoFillToken = 0;
+
   function openAddModal() {
     const modal = document.getElementById('modal-add-word');
     if (!modal) return;
     document.getElementById('form-add-word').reset();
-    document.getElementById('modal-autofill-indicator').style.display = 'none';
+    const indicator = document.getElementById('modal-autofill-indicator');
+    if (indicator) indicator.style.display = 'none';
+
+    // Populate suggestions datalist
+    const datalist = document.getElementById('word-suggestions');
+    if (datalist && datalist.children.length === 0) {
+      const wordMap = new Map();
+      if (typeof DEFAULT_GLOSSARY_DATA !== 'undefined') {
+        DEFAULT_GLOSSARY_DATA.forEach(item => wordMap.set(item.word.toLowerCase(), `${item.simp} (${item.pinyin})`));
+      }
+      if (typeof BUILTIN_DICTIONARY !== 'undefined') {
+        Object.keys(BUILTIN_DICTIONARY).forEach(w => {
+          if (!wordMap.has(w)) {
+            const entry = BUILTIN_DICTIONARY[w];
+            wordMap.set(w, `${entry.simp} (${entry.pinyin})`);
+          }
+        });
+      }
+      Array.from(wordMap.keys()).sort().forEach(word => {
+        const opt = document.createElement('option');
+        opt.value = word;
+        opt.label = wordMap.get(word);
+        datalist.appendChild(opt);
+      });
+    }
+
     modal.classList.add('active');
-    document.getElementById('modal-input-word')?.focus();
+    setTimeout(() => {
+      document.getElementById('modal-input-word')?.focus();
+    }, 100);
   }
 
   function closeAddModal() {
@@ -585,46 +725,71 @@
     if (modal) modal.classList.remove('active');
   }
 
-  async function handleSmartAutoFill(inputStr) {
-    if (!inputStr || inputStr.trim().length < 2) return;
+  async function handleSmartAutoFill(inputStr, forceOverwrite = true) {
+    if (!inputStr || inputStr.trim().length < 2) {
+      const indicator = document.getElementById('modal-autofill-indicator');
+      if (indicator) indicator.style.display = 'none';
+      return;
+    }
+
+    const thisToken = ++currentAutoFillToken;
+    const queryWord = inputStr.trim();
     const indicator = document.getElementById('modal-autofill-indicator');
     if (indicator) {
-      indicator.textContent = '⚡ 正在智能联想补全...';
+      indicator.textContent = `⚡ 正在匹配「${queryWord}」...`;
       indicator.style.display = 'inline-block';
       indicator.style.color = 'var(--primary-teal)';
     }
 
     try {
-      const match = await smartAutoFill(inputStr);
-      if (match) {
-        if (document.getElementById('modal-input-simp') && !document.getElementById('modal-input-simp').value) {
-          document.getElementById('modal-input-simp').value = match.simp || '';
+      const match = await smartAutoFill(queryWord);
+      // Discard stale responses if user typed something newer
+      if (thisToken !== currentAutoFillToken) return;
+
+      if (match && (match.simp || match.definition)) {
+        const simpInput = document.getElementById('modal-input-simp');
+        const tradInput = document.getElementById('modal-input-trad');
+        const pinyinInput = document.getElementById('modal-input-pinyin');
+        const defInput = document.getElementById('modal-input-def');
+        const cdefInput = document.getElementById('modal-input-cdef');
+        const tagsInput = document.getElementById('modal-input-tags');
+
+        if (simpInput && (forceOverwrite || !simpInput.value)) {
+          simpInput.value = match.simp || '';
         }
-        if (document.getElementById('modal-input-trad') && !document.getElementById('modal-input-trad').value) {
-          document.getElementById('modal-input-trad').value = match.trad || '';
+        if (tradInput && (forceOverwrite || !tradInput.value)) {
+          tradInput.value = match.trad || '';
         }
-        if (document.getElementById('modal-input-pinyin') && !document.getElementById('modal-input-pinyin').value) {
-          document.getElementById('modal-input-pinyin').value = match.pinyin || '';
+        if (pinyinInput && (forceOverwrite || !pinyinInput.value)) {
+          pinyinInput.value = match.pinyin || '';
         }
-        if (document.getElementById('modal-input-def') && !document.getElementById('modal-input-def').value) {
-          document.getElementById('modal-input-def').value = match.definition || '';
+        if (defInput && (forceOverwrite || !defInput.value)) {
+          defInput.value = match.definition || '';
         }
-        if (document.getElementById('modal-input-cdef') && !document.getElementById('modal-input-cdef').value) {
-          document.getElementById('modal-input-cdef').value = match.chineseDef || '';
+        if (cdefInput && (forceOverwrite || !cdefInput.value)) {
+          cdefInput.value = match.chineseDef || '';
         }
-        if (document.getElementById('modal-input-tags') && !document.getElementById('modal-input-tags').value) {
-          document.getElementById('modal-input-tags').value = (match.tags || []).join(', ');
+        if (tagsInput && (forceOverwrite || !tagsInput.value)) {
+          tagsInput.value = (match.tags || []).join(', ');
         }
+
         if (indicator) {
-          indicator.textContent = '✓ 智能补全成功！可按需微调';
+          const sourceText = match.source === 'builtin' ? '词典精准匹配' : (match.source === 'glossary' ? '预设词库' : '智能翻译');
+          indicator.textContent = `✓ 已匹配（${sourceText}）：${match.simp || ''} [${match.pinyin || ''}]`;
           indicator.style.color = 'var(--success-emerald)';
         }
       } else {
-        if (indicator) indicator.style.display = 'none';
+        if (indicator) {
+          indicator.textContent = `ℹ️ 词库未收录「${queryWord}」，可手动填写释义`;
+          indicator.style.color = 'var(--text-slate-500)';
+        }
       }
     } catch (e) {
       console.error(e);
-      if (indicator) indicator.style.display = 'none';
+      if (thisToken === currentAutoFillToken && indicator) {
+        indicator.textContent = 'ℹ️ 查询超时，可手动输入';
+        indicator.style.color = 'var(--text-slate-400)';
+      }
     }
   }
 
@@ -680,14 +845,14 @@
   }
 
   function exportToCSV() {
-    let csvContent = "\uFEFFChinese (Simplified),Chinese (Traditional),Word,Pinyin,Definition,Chinese Definition,Mastered\n";
+    let csvContent = "\uFEFFUnit,Chinese (Simplified),Chinese (Traditional),Word,Pinyin,Definition,Chinese Definition,Tags,Mastered\n";
     glossaryData.forEach(item => {
       const escape = (str) => `"${(str || '').replace(/"/g, '""')}"`;
-      csvContent += `${escape(item.simp)},${escape(item.trad)},${escape(item.word)},${escape(item.pinyin)},${escape(item.definition)},${escape(item.chineseDef)},${item.mastered ? 'Yes' : 'No'}\n`;
+      csvContent += `${escape(item.unitZh || item.unit || 'Core 2026')},${escape(item.simp)},${escape(item.trad)},${escape(item.word)},${escape(item.pinyin)},${escape(item.definition)},${escape(item.chineseDef)},${escape((item.tags || []).join('; '))},${item.mastered ? 'Yes' : 'No'}\n`;
     });
 
-    downloadBlob(csvContent, 'Chinese_Glossary_2026.csv', 'text/csv;charset=utf-8;');
-    showToast('CSV 文件已导出！');
+    downloadBlob(csvContent, 'Chinese_Glossary_2026_Full.csv', 'text/csv;charset=utf-8;');
+    showToast('完整词库 CSV 文件已导出！');
   }
 
   function exportToAnki() {
@@ -726,13 +891,19 @@
   // TAB 2: Interactive Flashcard Mode
   // ==========================================================================
   function buildFlashcardDeck() {
+    const unitFilter = document.getElementById('select-card-unit')?.value || 'all';
     const filter = document.getElementById('select-card-deck-filter')?.value || 'all';
+
+    let pool = [...glossaryData];
+    if (unitFilter !== 'all') {
+      pool = pool.filter(i => (i.unitId || 'u0') === unitFilter || (unitFilter === 'u0' && i.unitId === 'core'));
+    }
     if (filter === 'review') {
-      flashcardDeck = glossaryData.filter(i => !i.mastered);
+      flashcardDeck = pool.filter(i => !i.mastered);
     } else if (filter === 'mastered') {
-      flashcardDeck = glossaryData.filter(i => i.mastered);
+      flashcardDeck = pool.filter(i => i.mastered);
     } else {
-      flashcardDeck = [...glossaryData];
+      flashcardDeck = pool;
     }
 
     if (currentCardIndex >= flashcardDeck.length) {
@@ -753,7 +924,7 @@
     inner.classList.toggle('is-flipped', isCardFlipped);
 
     if (flashcardDeck.length === 0) {
-      front.innerHTML = `<div style="color: var(--text-slate-400); font-size: 1.25rem;">此分类下暂无生词</div>`;
+      front.innerHTML = `<div style="color: var(--text-slate-400); font-size: 1.25rem;">此分类或单元下暂无生词</div>`;
       back.innerHTML = ``;
       if (counter) counter.textContent = '0 / 0';
       if (progressBar) progressBar.style.width = '0%';
@@ -770,22 +941,34 @@
       ? `<div class="card-pinyin">${item.pinyin || ''}</div>`
       : `<div class="card-pinyin pinyin-hidden" title="点击悬浮查看">${item.pinyin || ''}</div>`;
 
+    const unitBadgeHtml = item.unitZh
+      ? `<span class="badge-unit badge-unit-${item.unitId || 'u0'}">${item.unitZh}</span>`
+      : '';
+
+    const cardHeader = (modeText) => `
+      <div style="position: absolute; top: 1.25rem; left: 1.5rem; right: 1.5rem; display: flex; justify-content: space-between; align-items: center;">
+        <div style="display: flex; gap: 0.5rem; align-items: center;">
+          ${unitBadgeHtml}
+          <span class="card-badge-mode" style="position: static;">${modeText}</span>
+        </div>
+        <span class="card-badge-mastered" style="position: static; ${item.mastered ? 'display: inline-block;' : ''}">★ 已掌握</span>
+      </div>
+    `;
+
     front.classList.toggle('is-mastered', !!item.mastered);
     back.classList.toggle('is-mastered', !!item.mastered);
 
     if (flashcardMode === 'EN_TO_ZH') {
       // Front: English Word & Definition -> Back: Chinese Character & Pinyin
       front.innerHTML = `
-        <span class="card-badge-mode">英译汉模式 · 正面</span>
-        <span class="card-badge-mastered">★ 已掌握</span>
+        ${cardHeader('英译汉模式 · 正面')}
         <div class="card-main-word" style="color: var(--accent-indigo); font-size: 2.8rem;">${item.word}</div>
         <div class="card-definition">${item.definition || ''}</div>
         <div class="card-flip-prompt"><span>🔄 点击卡片翻转查看中文</span></div>
       `;
 
       back.innerHTML = `
-        <span class="card-badge-mode">英译汉模式 · 背面</span>
-        <span class="card-badge-mastered">★ 已掌握</span>
+        ${cardHeader('英译汉模式 · 背面')}
         <div class="card-main-word">${primaryHanzi}</div>
         ${pinyinHtml}
         ${item.chineseDef ? `<div class="card-definition" style="color: var(--text-slate-500);">${item.chineseDef}</div>` : ''}
@@ -797,8 +980,7 @@
     } else if (flashcardMode === 'ZH_TO_EN') {
       // Front: Chinese Character & Pinyin -> Back: English Word & Definition
       front.innerHTML = `
-        <span class="card-badge-mode">汉译英模式 · 正面</span>
-        <span class="card-badge-mastered">★ 已掌握</span>
+        ${cardHeader('汉译英模式 · 正面')}
         <div class="card-main-word">${primaryHanzi}</div>
         ${pinyinHtml}
         <div style="margin-top: 0.5rem;">
@@ -808,8 +990,7 @@
       `;
 
       back.innerHTML = `
-        <span class="card-badge-mode">汉译英模式 · 背面</span>
-        <span class="card-badge-mastered">★ 已掌握</span>
+        ${cardHeader('汉译英模式 · 背面')}
         <div class="card-main-word" style="color: var(--accent-indigo); font-size: 2.5rem;">${item.word}</div>
         <div class="card-definition">${item.definition || ''}</div>
         ${item.chineseDef ? `<div class="card-definition" style="color: var(--text-slate-500); font-size: 0.9rem; margin-top: 6px;">${item.chineseDef}</div>` : ''}
@@ -818,8 +999,7 @@
     } else {
       // AUDIO_TO_ZH (Listening Mode)
       front.innerHTML = `
-        <span class="card-badge-mode">听力辨识模式 · 正面</span>
-        <span class="card-badge-mastered">★ 已掌握</span>
+        ${cardHeader('听力辨识模式 · 正面')}
         <div style="font-size: 4rem; margin-bottom: 1rem;">🎧</div>
         <button class="btn btn-primary" id="btn-card-speak-listen" style="padding: 0.8rem 1.5rem; font-size: 1.1rem;">
           🔊 播放读音
@@ -828,8 +1008,7 @@
       `;
 
       back.innerHTML = `
-        <span class="card-badge-mode">听力辨识模式 · 背面</span>
-        <span class="card-badge-mastered">★ 已掌握</span>
+        ${cardHeader('听力辨识模式 · 背面')}
         <div class="card-main-word">${primaryHanzi}</div>
         ${pinyinHtml}
         <div class="card-definition" style="color: var(--accent-indigo); font-weight: 700; font-size: 1.3rem;">${item.word}</div>
@@ -900,8 +1079,14 @@
   // TAB 3: Quiz & Practice Hub
   // ==========================================================================
   function initMultipleChoiceQuiz() {
-    if (glossaryData.length < 4) {
-      alert('生词数量少于 4 个，无法生成四选一测验。请先添加更多生词！');
+    const unitFilter = document.getElementById('select-quiz-unit')?.value || 'all';
+    let pool = [...glossaryData];
+    if (unitFilter !== 'all') {
+      pool = pool.filter(w => (w.unitId || 'u0') === unitFilter || (unitFilter === 'u0' && w.unitId === 'core'));
+    }
+
+    if (pool.length < 4) {
+      alert('该单元生词数量少于 4 个，无法生成测验。请选择全部单元或切换其他单元！');
       return;
     }
 
@@ -910,14 +1095,15 @@
     quizAnswered = false;
 
     // Shuffle and pick 10 questions (or all if < 10)
-    const shuffled = [...glossaryData].sort(() => Math.random() - 0.5);
+    const shuffled = [...pool].sort(() => Math.random() - 0.5);
     const count = Math.min(10, shuffled.length);
     quizQuestions = [];
 
     for (let i = 0; i < count; i++) {
       const correctWord = shuffled[i];
-      // Pick 3 distractors
-      const distractors = glossaryData
+      // Pick 3 distractors from pool (or glossaryData if pool has few)
+      const distractorPool = pool.length >= 4 ? pool : glossaryData;
+      const distractors = distractorPool
         .filter(w => w.id !== correctWord.id)
         .sort(() => Math.random() - 0.5)
         .slice(0, 3);
@@ -1076,8 +1262,14 @@
 
   // --- Match Memory Game (连连看) ---
   function initMatchGame() {
-    if (glossaryData.length < 6) {
-      alert('生词数量少于 6 个，无法进行配对游戏！');
+    const unitFilter = document.getElementById('select-quiz-unit')?.value || 'all';
+    let pool = [...glossaryData];
+    if (unitFilter !== 'all') {
+      pool = pool.filter(w => (w.unitId || 'u0') === unitFilter || (unitFilter === 'u0' && w.unitId === 'core'));
+    }
+
+    if (pool.length < 6) {
+      alert('该单元生词数量少于 6 个，无法进行配对游戏！请选择全部单元或切换其他单元。');
       return;
     }
 
@@ -1098,7 +1290,7 @@
     }, 1000);
 
     // Pick 6 random words -> 12 tiles (6 Chinese, 6 English)
-    const selected = [...glossaryData].sort(() => Math.random() - 0.5).slice(0, 6);
+    const selected = [...pool].sort(() => Math.random() - 0.5).slice(0, 6);
     let cards = [];
     selected.forEach(item => {
       const hanzi = settings.charMode === 'simp' ? item.simp : (item.trad || item.simp);
@@ -1190,21 +1382,43 @@
     const sheetContainer = document.getElementById('printable-sheet-content');
     if (!sheetContainer) return;
 
+    const unitFilter = document.getElementById('select-worksheet-unit')?.value || 'all';
     const filter = document.getElementById('select-worksheet-filter')?.value || 'all';
+
     let words = [...glossaryData];
+    if (unitFilter !== 'all') {
+      words = words.filter(w => (w.unitId || 'u0') === unitFilter || (unitFilter === 'u0' && w.unitId === 'core'));
+    }
     if (filter === 'review') words = words.filter(w => !w.mastered);
     else if (filter === 'mastered') words = words.filter(w => w.mastered);
 
+    const unitNames = {
+      "all": "全套词库 (All 837 Words)",
+      "u0": "Unit 0: 基础导论预备 (Introduction)",
+      "core": "Unit 0: 基础导论预备 (Introduction)",
+      "u1": "Unit 1: 家庭与社会 (Families in Societies)",
+      "u2": "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+      "u3": "Unit 3: 美与审美 (Beauty and Aesthetics)",
+      "u4": "Unit 4: 科学与技术 (Science and Technology)",
+      "u5": "Unit 5: 现代生活 (Contemporary Life)",
+      "u6": "Unit 6: 全球挑战 (Global Challenges)"
+    };
+    const unitTitle = unitNames[unitFilter] || unitFilter;
+
     if (worksheetType === 'tianzige') {
-      renderTianzigeWritingSheet(sheetContainer, words);
+      renderTianzigeWritingSheet(sheetContainer, words, unitTitle);
     } else if (worksheetType === 'quiz') {
-      renderClassroomQuizSheet(sheetContainer, words);
+      renderClassroomQuizSheet(sheetContainer, words, unitTitle);
     } else {
-      renderCutoutCardsSheet(sheetContainer, words);
+      renderCutoutCardsSheet(sheetContainer, words, unitTitle);
     }
   }
 
-  function renderTianzigeWritingSheet(container, words) {
+  function renderTianzigeWritingSheet(container, words, unitTitle = '2026 Edition') {
+    if (words.length === 0) {
+      container.innerHTML = `<div style="text-align:center; padding: 4rem 1rem; color: var(--text-slate-400);">此单元或筛选条件下暂无可打印生词</div>`;
+      return;
+    }
     let rowsHtml = '';
     words.forEach(item => {
       const primaryHanzi = settings.charMode === 'simp' ? item.simp : (item.trad || item.simp);
@@ -1244,7 +1458,7 @@
       <div class="sheet-header">
         <div class="sheet-header-title">
           <h2>中文生词规范田字格书写练习单</h2>
-          <p>Chinese Vocabulary Handwriting Worksheet (2026 Edition)</p>
+          <p>Chinese Vocabulary Handwriting Worksheet · ${unitTitle}</p>
         </div>
         <div class="sheet-header-meta">
           <div>姓名：<span class="meta-item"></span></div>
@@ -1258,7 +1472,11 @@
     `;
   }
 
-  function renderClassroomQuizSheet(container, words) {
+  function renderClassroomQuizSheet(container, words, unitTitle = '2026 Edition') {
+    if (words.length === 0) {
+      container.innerHTML = `<div style="text-align:center; padding: 4rem 1rem; color: var(--text-slate-400);">此单元或筛选条件下暂无可打印生词</div>`;
+      return;
+    }
     const quizWords = words.slice(0, 10);
     // Shuffle English for matching
     const shuffledEnglish = [...quizWords].sort(() => Math.random() - 0.5);
@@ -1276,7 +1494,7 @@
           </div>
           <div style="width: 10%; text-align: center;">[ &nbsp;&nbsp;&nbsp;&nbsp; ]</div>
           <div style="width: 45%; text-align: right;">
-            <strong>${letter}.</strong> ${engItem.word} — <small>${engItem.definition.slice(0, 45)}...</small>
+            <strong>${letter}.</strong> ${engItem.word} — <small>${(engItem.definition || '').slice(0, 45)}...</small>
           </div>
         </div>
       `;
@@ -1288,7 +1506,7 @@
         <div class="quiz-fill-row">
           <div style="width: 30px;"><strong>${idx + 1}.</strong></div>
           <div style="flex: 1;">
-            <strong>${item.word}</strong> (${item.definition.slice(0, 60)}...)
+            <strong>${item.word}</strong> (${(item.definition || '').slice(0, 60)}...)
           </div>
           <div style="display: flex; gap: 1.5rem; align-items: center;">
             <div>拼音: <span class="fill-blank-line"></span></div>
@@ -1302,7 +1520,7 @@
       <div class="sheet-header">
         <div class="sheet-header-title">
           <h2>中文生词随堂评估测试卷</h2>
-          <p>Classroom Vocabulary Assessment Quiz (2026)</p>
+          <p>Classroom Vocabulary Assessment Quiz · ${unitTitle}</p>
         </div>
         <div class="sheet-header-meta">
           <div>姓名：<span class="meta-item"></span></div>
@@ -1323,7 +1541,11 @@
     `;
   }
 
-  function renderCutoutCardsSheet(container, words) {
+  function renderCutoutCardsSheet(container, words, unitTitle = '2026 Edition') {
+    if (words.length === 0) {
+      container.innerHTML = `<div style="text-align:center; padding: 4rem 1rem; color: var(--text-slate-400);">此单元或筛选条件下暂无可打印生词</div>`;
+      return;
+    }
     let cardsHtml = '';
     words.forEach(item => {
       const primaryHanzi = settings.charMode === 'simp' ? item.simp : (item.trad || item.simp);
@@ -1345,7 +1567,7 @@
       <div class="sheet-header">
         <div class="sheet-header-title">
           <h2>中文双语便携复习卡（沿虚线剪裁）</h2>
-          <p>Printable Chinese-English Pocket Flashcards</p>
+          <p>Printable Chinese-English Pocket Flashcards · ${unitTitle}</p>
         </div>
         <div class="sheet-header-meta">
           <div>班级：<span class="meta-item"></span></div>

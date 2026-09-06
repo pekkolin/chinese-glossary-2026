@@ -1,0 +1,740 @@
+﻿[
+    {
+        "Row":  3,
+        "Pinyin":  "",
+        "Chinese":  "包括",
+        "English":  ""
+    },
+    {
+        "Row":  4,
+        "Pinyin":  "",
+        "Chinese":  "包含",
+        "English":  ""
+    },
+    {
+        "Row":  6,
+        "Pinyin":  "",
+        "Chinese":  "从来",
+        "English":  ""
+    },
+    {
+        "Row":  7,
+        "Pinyin":  "",
+        "Chinese":  "本来",
+        "English":  ""
+    },
+    {
+        "Row":  8,
+        "Pinyin":  "",
+        "Chinese":  "原来",
+        "English":  ""
+    },
+    {
+        "Row":  10,
+        "Pinyin":  "",
+        "Chinese":  "比如，比方说",
+        "English":  ""
+    },
+    {
+        "Row":  11,
+        "Pinyin":  "",
+        "Chinese":  "比较",
+        "English":  ""
+    },
+    {
+        "Row":  13,
+        "Pinyin":  "",
+        "Chinese":  "必须",
+        "English":  ""
+    },
+    {
+        "Row":  14,
+        "Pinyin":  "",
+        "Chinese":  "不必",
+        "English":  ""
+    },
+    {
+        "Row":  15,
+        "Pinyin":  "",
+        "Chinese":  "需要",
+        "English":  ""
+    },
+    {
+        "Row":  17,
+        "Pinyin":  "",
+        "Chinese":  "真的",
+        "English":  ""
+    },
+    {
+        "Row":  18,
+        "Pinyin":  "",
+        "Chinese":  "十分",
+        "English":  ""
+    },
+    {
+        "Row":  19,
+        "Pinyin":  "",
+        "Chinese":  "非常",
+        "English":  ""
+    },
+    {
+        "Row":  20,
+        "Pinyin":  "",
+        "Chinese":  "adj. +得很",
+        "English":  ""
+    },
+    {
+        "Row":  21,
+        "Pinyin":  "",
+        "Chinese":  "太adj 了",
+        "English":  ""
+    },
+    {
+        "Row":  22,
+        "Pinyin":  "",
+        "Chinese":  "adj 极了",
+        "English":  ""
+    },
+    {
+        "Row":  23,
+        "Pinyin":  "",
+        "Chinese":  "adj. +得不得了",
+        "English":  ""
+    },
+    {
+        "Row":  24,
+        "Pinyin":  "",
+        "Chinese":  "不见得",
+        "English":  ""
+    },
+    {
+        "Row":  25,
+        "Pinyin":  "",
+        "Chinese":  "甚至",
+        "English":  ""
+    },
+    {
+        "Row":  26,
+        "Pinyin":  "",
+        "Chinese":  "特别",
+        "English":  ""
+    },
+    {
+        "Row":  28,
+        "Pinyin":  "",
+        "Chinese":  "尽管",
+        "English":  ""
+    },
+    {
+        "Row":  29,
+        "Pinyin":  "",
+        "Chinese":  "不管",
+        "English":  ""
+    },
+    {
+        "Row":  30,
+        "Pinyin":  "",
+        "Chinese":  "无论",
+        "English":  ""
+    },
+    {
+        "Row":  32,
+        "Pinyin":  "",
+        "Chinese":  "曾经，从前，以前",
+        "English":  ""
+    },
+    {
+        "Row":  33,
+        "Pinyin":  "",
+        "Chinese":  "（不./过了）一会儿",
+        "English":  ""
+    },
+    {
+        "Row":  34,
+        "Pinyin":  "",
+        "Chinese":  "过几天",
+        "English":  ""
+    },
+    {
+        "Row":  35,
+        "Pinyin":  "",
+        "Chinese":  "到底",
+        "English":  ""
+    },
+    {
+        "Row":  36,
+        "Pinyin":  "",
+        "Chinese":  "过了一段时间",
+        "English":  ""
+    },
+    {
+        "Row":  37,
+        "Pinyin":  "",
+        "Chinese":  "继续",
+        "English":  ""
+    },
+    {
+        "Row":  38,
+        "Pinyin":  "",
+        "Chinese":  "将来",
+        "English":  ""
+    },
+    {
+        "Row":  39,
+        "Pinyin":  "",
+        "Chinese":  "永远",
+        "English":  ""
+    },
+    {
+        "Row":  41,
+        "Pinyin":  "",
+        "Chinese":  "并+ negation words 不， 没有",
+        "English":  ""
+    },
+    {
+        "Row":  42,
+        "Pinyin":  "",
+        "Chinese":  "不断(地)",
+        "English":  ""
+    },
+    {
+        "Row":  43,
+        "Pinyin":  "",
+        "Chinese":  "不停(地)",
+        "English":  ""
+    },
+    {
+        "Row":  44,
+        "Pinyin":  "",
+        "Chinese":  "不如",
+        "English":  ""
+    },
+    {
+        "Row":  46,
+        "Pinyin":  "",
+        "Chinese":  "相同",
+        "English":  ""
+    },
+    {
+        "Row":  47,
+        "Pinyin":  "",
+        "Chinese":  "不同",
+        "English":  ""
+    },
+    {
+        "Row":  48,
+        "Pinyin":  "",
+        "Chinese":  "部分",
+        "English":  ""
+    },
+    {
+        "Row":  49,
+        "Pinyin":  "",
+        "Chinese":  "大部分",
+        "English":  ""
+    },
+    {
+        "Row":  50,
+        "Pinyin":  "",
+        "Chinese":  "大多（数）",
+        "English":  ""
+    },
+    {
+        "Row":  51,
+        "Pinyin":  "",
+        "Chinese":  "少数",
+        "English":  ""
+    },
+    {
+        "Row":  52,
+        "Pinyin":  "",
+        "Chinese":  "各",
+        "English":  ""
+    },
+    {
+        "Row":  53,
+        "Pinyin":  "",
+        "Chinese":  "各种各样的",
+        "English":  ""
+    },
+    {
+        "Row":  55,
+        "Pinyin":  "",
+        "Chinese":  "首先",
+        "English":  ""
+    },
+    {
+        "Row":  56,
+        "Pinyin":  "",
+        "Chinese":  "其次",
+        "English":  ""
+    },
+    {
+        "Row":  57,
+        "Pinyin":  "",
+        "Chinese":  "另外",
+        "English":  ""
+    },
+    {
+        "Row":  58,
+        "Pinyin":  "",
+        "Chinese":  "最后",
+        "English":  ""
+    },
+    {
+        "Row":  59,
+        "Pinyin":  "",
+        "Chinese":  "终于",
+        "English":  ""
+    },
+    {
+        "Row":  61,
+        "Pinyin":  "",
+        "Chinese":  "尽力",
+        "English":  ""
+    },
+    {
+        "Row":  62,
+        "Pinyin":  "",
+        "Chinese":  "尽量",
+        "English":  ""
+    },
+    {
+        "Row":  63,
+        "Pinyin":  "",
+        "Chinese":  "尽可能",
+        "English":  ""
+    },
+    {
+        "Row":  65,
+        "Pinyin":  "",
+        "Chinese":  "一定",
+        "English":  ""
+    },
+    {
+        "Row":  66,
+        "Pinyin":  "",
+        "Chinese":  "决定",
+        "English":  ""
+    },
+    {
+        "Row":  67,
+        "Pinyin":  "",
+        "Chinese":  "肯定",
+        "English":  ""
+    },
+    {
+        "Row":  69,
+        "Pinyin":  "",
+        "Chinese":  "难道",
+        "English":  ""
+    },
+    {
+        "Row":  70,
+        "Pinyin":  "",
+        "Chinese":  "难怪",
+        "English":  ""
+    },
+    {
+        "Row":  72,
+        "Pinyin":  "",
+        "Chinese":  "实际上",
+        "English":  ""
+    },
+    {
+        "Row":  73,
+        "Pinyin":  "",
+        "Chinese":  "其实",
+        "English":  ""
+    },
+    {
+        "Row":  74,
+        "Pinyin":  "",
+        "Chinese":  "其他",
+        "English":  ""
+    },
+    {
+        "Row":  75,
+        "Pinyin":  "",
+        "Chinese":  "其中",
+        "English":  ""
+    },
+    {
+        "Row":  77,
+        "Pinyin":  "",
+        "Chinese":  "取得",
+        "English":  ""
+    },
+    {
+        "Row":  78,
+        "Pinyin":  "",
+        "Chinese":  "获得",
+        "English":  ""
+    },
+    {
+        "Row":  79,
+        "Pinyin":  "",
+        "Chinese":  "显得",
+        "English":  ""
+    },
+    {
+        "Row":  81,
+        "Pinyin":  "",
+        "Chinese":  "很可能",
+        "English":  ""
+    },
+    {
+        "Row":  82,
+        "Pinyin":  "",
+        "Chinese":  "也许",
+        "English":  ""
+    },
+    {
+        "Row":  83,
+        "Pinyin":  "",
+        "Chinese":  "说不定",
+        "English":  ""
+    },
+    {
+        "Row":  84,
+        "Pinyin":  "",
+        "Chinese":  "不一定",
+        "English":  ""
+    },
+    {
+        "Row":  86,
+        "Pinyin":  "",
+        "Chinese":  "完全",
+        "English":  ""
+    },
+    {
+        "Row":  87,
+        "Pinyin":  "",
+        "Chinese":  "的确",
+        "English":  ""
+    },
+    {
+        "Row":  88,
+        "Pinyin":  "",
+        "Chinese":  "根本",
+        "English":  ""
+    },
+    {
+        "Row":  89,
+        "Pinyin":  "",
+        "Chinese":  "非...不可",
+        "English":  ""
+    },
+    {
+        "Row":  91,
+        "Pinyin":  "",
+        "Chinese":  "选择",
+        "English":  ""
+    },
+    {
+        "Row":  92,
+        "Pinyin":  "",
+        "Chinese":  "要么...要么...",
+        "English":  ""
+    },
+    {
+        "Row":  93,
+        "Pinyin":  "",
+        "Chinese":  "不是...就是...",
+        "English":  ""
+    },
+    {
+        "Row":  94,
+        "Pinyin":  "",
+        "Chinese":  "不是...而是...",
+        "English":  ""
+    },
+    {
+        "Row":  96,
+        "Pinyin":  "",
+        "Chinese":  "真的",
+        "English":  ""
+    },
+    {
+        "Row":  97,
+        "Pinyin":  "",
+        "Chinese":  "整天",
+        "English":  ""
+    },
+    {
+        "Row":  98,
+        "Pinyin":  "",
+        "Chinese":  "正好",
+        "English":  ""
+    },
+    {
+        "Row":  99,
+        "Pinyin":  "",
+        "Chinese":  "正式",
+        "English":  ""
+    },
+    {
+        "Row":  100,
+        "Pinyin":  "",
+        "Chinese":  "之间",
+        "English":  ""
+    },
+    {
+        "Row":  101,
+        "Pinyin":  "",
+        "Chinese":  "只好",
+        "English":  ""
+    },
+    {
+        "Row":  103,
+        "Pinyin":  "",
+        "Chinese":  "重要",
+        "English":  ""
+    },
+    {
+        "Row":  104,
+        "Pinyin":  "",
+        "Chinese":  "总之",
+        "English":  ""
+    },
+    {
+        "Row":  105,
+        "Pinyin":  "",
+        "Chinese":  "做法",
+        "English":  ""
+    },
+    {
+        "Row":  106,
+        "Pinyin":  "",
+        "Chinese":  "方面",
+        "English":  ""
+    },
+    {
+        "Row":  107,
+        "Pinyin":  "",
+        "Chinese":  "方式",
+        "English":  ""
+    },
+    {
+        "Row":  109,
+        "Pinyin":  "",
+        "Chinese":  "要不是",
+        "English":  ""
+    },
+    {
+        "Row":  110,
+        "Pinyin":  "",
+        "Chinese":  "要不然",
+        "English":  ""
+    },
+    {
+        "Row":  111,
+        "Pinyin":  "",
+        "Chinese":  "否则",
+        "English":  ""
+    },
+    {
+        "Row":  113,
+        "Pinyin":  "",
+        "Chinese":  "害",
+        "English":  ""
+    },
+    {
+        "Row":  114,
+        "Pinyin":  "",
+        "Chinese":  "好处",
+        "English":  ""
+    },
+    {
+        "Row":  115,
+        "Pinyin":  "",
+        "Chinese":  "利弊",
+        "English":  ""
+    },
+    {
+        "Row":  116,
+        "Pinyin":  "",
+        "Chinese":  "互相",
+        "English":  ""
+    },
+    {
+        "Row":  118,
+        "Pinyin":  "",
+        "Chinese":  "即使",
+        "English":  ""
+    },
+    {
+        "Row":  119,
+        "Pinyin":  "",
+        "Chinese":  "既然",
+        "English":  ""
+    },
+    {
+        "Row":  120,
+        "Pinyin":  "",
+        "Chinese":  "突然",
+        "English":  ""
+    },
+    {
+        "Row":  121,
+        "Pinyin":  "",
+        "Chinese":  "虽然",
+        "English":  ""
+    },
+    {
+        "Row":  122,
+        "Pinyin":  "",
+        "Chinese":  "竟(然)",
+        "English":  ""
+    },
+    {
+        "Row":  123,
+        "Pinyin":  "",
+        "Chinese":  "然而",
+        "English":  ""
+    },
+    {
+        "Row":  125,
+        "Pinyin":  "",
+        "Chinese":  "随便",
+        "English":  ""
+    },
+    {
+        "Row":  126,
+        "Pinyin":  "",
+        "Chinese":  "适合",
+        "English":  ""
+    },
+    {
+        "Row":  127,
+        "Pinyin":  "",
+        "Chinese":  "适应",
+        "English":  ""
+    },
+    {
+        "Row":  129,
+        "Pinyin":  "",
+        "Chinese":  "一般",
+        "English":  ""
+    },
+    {
+        "Row":  130,
+        "Pinyin":  "",
+        "Chinese":  "一向",
+        "English":  ""
+    },
+    {
+        "Row":  132,
+        "Pinyin":  "",
+        "Chinese":  "急忙",
+        "English":  ""
+    },
+    {
+        "Row":  133,
+        "Pinyin":  "",
+        "Chinese":  "马上",
+        "English":  ""
+    },
+    {
+        "Row":  135,
+        "Pinyin":  "",
+        "Chinese":  "甚至",
+        "English":  ""
+    },
+    {
+        "Row":  137,
+        "Pinyin":  "",
+        "Chinese":  "差不多",
+        "English":  ""
+    },
+    {
+        "Row":  138,
+        "Pinyin":  "",
+        "Chinese":  "几乎",
+        "English":  ""
+    },
+    {
+        "Row":  139,
+        "Pinyin":  "",
+        "Chinese":  "在乎",
+        "English":  ""
+    },
+    {
+        "Row":  141,
+        "Pinyin":  "",
+        "Chinese":  "有益(于）",
+        "English":  ""
+    },
+    {
+        "Row":  142,
+        "Pinyin":  "",
+        "Chinese":  "对于",
+        "English":  ""
+    },
+    {
+        "Row":  143,
+        "Pinyin":  "",
+        "Chinese":  "等于",
+        "English":  ""
+    },
+    {
+        "Row":  144,
+        "Pinyin":  "",
+        "Chinese":  "至于",
+        "English":  ""
+    },
+    {
+        "Row":  145,
+        "Pinyin":  "",
+        "Chinese":  "于是",
+        "English":  ""
+    },
+    {
+        "Row":  146,
+        "Pinyin":  "",
+        "Chinese":  "老是",
+        "English":  ""
+    },
+    {
+        "Row":  147,
+        "Pinyin":  "",
+        "Chinese":  "只是",
+        "English":  ""
+    },
+    {
+        "Row":  148,
+        "Pinyin":  "",
+        "Chinese":  "结果",
+        "English":  ""
+    },
+    {
+        "Row":  150,
+        "Pinyin":  "",
+        "Chinese":  "与(和，跟)",
+        "English":  ""
+    },
+    {
+        "Row":  152,
+        "Pinyin":  "",
+        "Chinese":  "常常",
+        "English":  ""
+    },
+    {
+        "Row":  153,
+        "Pinyin":  "",
+        "Chinese":  "经常",
+        "English":  ""
+    },
+    {
+        "Row":  154,
+        "Pinyin":  "",
+        "Chinese":  "平常",
+        "English":  ""
+    },
+    {
+        "Row":  155,
+        "Pinyin":  "",
+        "Chinese":  "往往",
+        "English":  ""
+    }
+]

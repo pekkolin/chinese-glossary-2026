@@ -15,7 +15,7 @@
         <div class="brand-icon">文</div>
         <div class="brand-titles">
           <h1>Chinese Glossary 2026</h1>
-          <div class="subtitle">中文生词教学与学习交互工具 · 语言教学材料制作专家出品</div>
+          <div class="subtitle">中文生词教学与学习交互工具 · 包含 AP Chinese Unit 0 导论及 Unit 1-6 全套词库 (共 837 词)</div>
         </div>
       </div>
 
@@ -48,16 +48,16 @@
     </div>
   </header>
 
-  <!-- Navigation Tabs -->
-  <nav class="nav-tabs-wrapper">
-    <div class="nav-tabs-container">
+  <!-- Navigation Bar -->
+  <nav class="app-nav">
+    <div class="nav-container">
       <button class="nav-tab-btn active" data-tab="pane-glossary">
         <span>📖 词库全览 (Glossary)</span>
-        <span class="badge-count" id="badge-glossary-count">14</span>
+        <span class="badge-count" id="badge-glossary-count">837</span>
       </button>
       <button class="nav-tab-btn" data-tab="pane-flashcards">
         <span>📇 智能闪卡 (Flashcards)</span>
-        <span class="badge-count" id="badge-flashcard-count">14</span>
+        <span class="badge-count" id="badge-flashcard-count">837</span>
       </button>
       <button class="nav-tab-btn" data-tab="pane-quiz">
         <span>🎯 随堂练习 (Quiz & Games)</span>
@@ -76,13 +76,23 @@
          ==================================================================== -->
     <section id="pane-glossary" class="tab-pane active">
       <div class="table-toolbar">
-        <div class="search-filter-group">
+        <div class="search-filter-group" style="flex-wrap: wrap;">
           <div class="search-input-wrapper">
             <span class="search-icon-decor">🔍</span>
             <input type="text" id="table-search-input" placeholder="实时搜索汉字、拼音、英文单词或释义..." autocomplete="off">
           </div>
+          <select id="filter-unit" class="btn btn-secondary" style="padding: 0.55rem 0.85rem; font-weight: 500;">
+            <option value="all">📚 全套词汇库 (All Units · 837 词)</option>
+            <option value="u0">📖 Unit 0: 基础导论预备 (Introduction · 123 词)</option>
+            <option value="u1">👨‍👩‍👧 Unit 1: 家庭与社会 (153 词)</option>
+            <option value="u2">🪪 Unit 2: 个人与公众身份 (136 词)</option>
+            <option value="u3">🎨 Unit 3: 美与审美 (112 词)</option>
+            <option value="u4">🔬 Unit 4: 科学与技术 (53 词)</option>
+            <option value="u5">🏙️ Unit 5: 现代生活 (137 词)</option>
+            <option value="u6">🌍 Unit 6: 全球挑战 (123 词)</option>
+          </select>
           <select id="filter-status" class="btn btn-secondary" style="padding: 0.55rem 0.85rem;">
-            <option value="all">全部词汇 (All)</option>
+            <option value="all">全部掌握状态</option>
             <option value="review">重点复习 (Need Review)</option>
             <option value="mastered">已掌握 (Mastered)</option>
           </select>
@@ -128,7 +138,21 @@
          ==================================================================== -->
     <section id="pane-flashcards" class="tab-pane">
       <div class="flashcard-wrapper">
-        <div class="flashcard-controls-top">
+        <div class="flashcard-controls-top" style="flex-wrap: wrap; gap: 0.75rem;">
+          <div style="display: flex; gap: 0.75rem; align-items: center;">
+            <span style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-500);">单元主题:</span>
+            <select id="select-card-unit" class="control-pill" style="border:none; padding: 0.25rem 0.5rem; font-weight: 500;">
+              <option value="all">📚 全部单元 (All Units · 837 词)</option>
+              <option value="u0">📖 Unit 0: 基础导论预备 (Introduction · 123 词)</option>
+              <option value="u1">👨‍👩‍👧 Unit 1: 家庭与社会 (153 词)</option>
+              <option value="u2">🪪 Unit 2: 个人与公众身份 (136 词)</option>
+              <option value="u3">🎨 Unit 3: 美与审美 (112 词)</option>
+              <option value="u4">🔬 Unit 4: 科学与技术 (53 词)</option>
+              <option value="u5">🏙️ Unit 5: 现代生活 (137 词)</option>
+              <option value="u6">🌍 Unit 6: 全球挑战 (123 词)</option>
+            </select>
+          </div>
+
           <div style="display: flex; gap: 0.75rem; align-items: center;">
             <span style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-500);">学习模式:</span>
             <select id="select-card-mode" class="control-pill" style="border:none; padding: 0.25rem 0.5rem;">
@@ -141,11 +165,11 @@
           <div style="display: flex; gap: 0.75rem; align-items: center;">
             <span style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-500);">卡片范围:</span>
             <select id="select-card-deck-filter" class="control-pill" style="border:none; padding: 0.25rem 0.5rem;">
-              <option value="all">全部词汇</option>
-              <option value="review">重点复习</option>
+              <option value="all">全部状态</option>
+              <option value="review">仅待复习</option>
               <option value="mastered">已掌握</option>
             </select>
-            <span id="card-progress-text" style="font-size: 0.9rem; font-weight: 700; color: var(--primary-teal);">1 / 14</span>
+            <span id="card-progress-text" style="font-size: 0.9rem; font-weight: 700; color: var(--primary-teal);">1 / 728</span>
           </div>
         </div>
 
@@ -188,9 +212,24 @@
          ==================================================================== -->
     <section id="pane-quiz" class="tab-pane">
       <div class="quiz-wrapper">
-        <div class="quiz-subtabs">
-          <button class="quiz-subtab-btn active" data-quiz="mc">📝 随堂四选一测验 (Multiple Choice)</button>
-          <button class="quiz-subtab-btn" data-quiz="match">🧩 记忆配对连连看 (Match Game)</button>
+        <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 680px; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem;">
+          <div class="quiz-subtabs" style="margin-bottom: 0;">
+            <button class="quiz-subtab-btn active" data-quiz="mc">📝 随堂四选一测验 (Multiple Choice)</button>
+            <button class="quiz-subtab-btn" data-quiz="match">🧩 记忆配对连连看 (Match Game)</button>
+          </div>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <label for="select-quiz-unit" style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-600);">测验单元:</label>
+            <select id="select-quiz-unit" class="control-pill" style="padding: 0.35rem 0.65rem; font-weight: 500;">
+              <option value="all">📚 全部单元 (837 词)</option>
+              <option value="u0">📖 Unit 0: 基础导论预备 (123 词)</option>
+              <option value="u1">👨‍👩‍👧 Unit 1: 家庭与社会 (153 词)</option>
+              <option value="u2">🪪 Unit 2: 个人与身份 (136 词)</option>
+              <option value="u3">🎨 Unit 3: 美与审美 (112 词)</option>
+              <option value="u4">🔬 Unit 4: 科学与技术 (53 词)</option>
+              <option value="u5">🏙️ Unit 5: 现代生活 (137 词)</option>
+              <option value="u6">🌍 Unit 6: 全球挑战 (123 词)</option>
+            </select>
+          </div>
         </div>
 
         <!-- Sub-view 1: Multiple Choice Quiz -->
@@ -263,7 +302,7 @@
     <section id="pane-worksheet" class="tab-pane">
       <div class="worksheet-config-card">
         <div class="config-row">
-          <div class="config-options">
+          <div class="config-options" style="flex-wrap: wrap; gap: 1rem;">
             <div>
               <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-700); margin-right: 0.5rem;">练习单类型:</label>
               <select id="select-worksheet-type" class="control-pill">
@@ -274,9 +313,23 @@
             </div>
 
             <div>
-              <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-700); margin-right: 0.5rem;">词汇范围:</label>
+              <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-700); margin-right: 0.5rem;">单元选择:</label>
+              <select id="select-worksheet-unit" class="control-pill" style="font-weight: 500;">
+                <option value="all">📚 全部单元 (All Units · 837 词)</option>
+                <option value="u0">📖 Unit 0: 基础导论预备 (Introduction · 123 词)</option>
+                <option value="u1">👨‍👩‍👧 Unit 1: 家庭与社会 (153 词)</option>
+                <option value="u2">🪪 Unit 2: 个人与公众身份 (136 词)</option>
+                <option value="u3">🎨 Unit 3: 美与审美 (112 词)</option>
+                <option value="u4">🔬 Unit 4: 科学与技术 (53 词)</option>
+                <option value="u5">🏙️ Unit 5: 现代生活 (137 词)</option>
+                <option value="u6">🌍 Unit 6: 全球挑战 (123 词)</option>
+              </select>
+            </div>
+
+            <div>
+              <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-slate-700); margin-right: 0.5rem;">词汇状态:</label>
               <select id="select-worksheet-filter" class="control-pill">
-                <option value="all">全部词汇 (14词)</option>
+                <option value="all">全部状态</option>
                 <option value="review">仅需复习的生词</option>
                 <option value="mastered">仅已掌握的生词</option>
               </select>
@@ -317,11 +370,17 @@
             <label for="modal-input-word">
               英文单词 (Word)
               <span style="color: var(--primary-teal); font-weight: normal; font-size: 0.75rem; margin-left: 0.5rem;">
-                *输入英文可自动联想补全表格
+                *输入英文后点「智能补全」或回车，即可自动完成表格
               </span>
             </label>
-            <input type="text" id="modal-input-word" placeholder="例如：telescope, library, school..." required autofocus>
-            <div id="modal-autofill-indicator" style="font-size: 0.75rem; margin-top: 4px; display: none;"></div>
+            <div style="display: flex; gap: 0.5rem;">
+              <input type="text" id="modal-input-word" placeholder="例如：classroom, textbook, school..." list="word-suggestions" required autofocus style="flex:1;">
+              <button type="button" class="btn btn-indigo" id="btn-trigger-autofill" style="white-space:nowrap; padding: 0.5rem 0.85rem;" title="立即自动匹配中文、拼音与释义">
+                ⚡ 智能补全
+              </button>
+            </div>
+            <datalist id="word-suggestions"></datalist>
+            <div id="modal-autofill-indicator" style="font-size: 0.8rem; margin-top: 6px; display: none;"></div>
           </div>
 
           <div class="form-row">
@@ -365,6 +424,7 @@
   </div>
 
   <!-- Scripts -->
+  <script src="js/ap_data.js"></script>
   <script src="js/data.js"></script>
   <script src="js/pinyin_dict.js"></script>
   <script src="js/app.js"></script>
