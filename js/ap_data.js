@@ -6,13 +6,13 @@
         "trad":  "獨生子女",
         "pinyin":  "dú shēng zǐ nǚ",
         "definition":  "only child",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -23,13 +23,13 @@
         "trad":  "家庭",
         "pinyin":  "jiātíng",
         "definition":  "family",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -40,13 +40,13 @@
         "trad":  "四世同堂",
         "pinyin":  "sì shì tóng táng",
         "definition":  "four generations living under one roof",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -57,13 +57,13 @@
         "trad":  "望子成龍",
         "pinyin":  "wàng zǐ chéng lóng",
         "definition":  "hope one\u0027s son becomes successful (lit. become a dragon)",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -74,13 +74,13 @@
         "trad":  "望女成鳳",
         "pinyin":  "wàng nǚ chéng fèng",
         "definition":  "hope one\u0027s daughter becomes successful (lit. become a phoenix)",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -91,13 +91,13 @@
         "trad":  "傳宗接代",
         "pinyin":  "chuán zōng jiē dài",
         "definition":  "carry on the family line",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -108,13 +108,13 @@
         "trad":  "孝順",
         "pinyin":  "xiàoshùn",
         "definition":  "Filial piety",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -125,13 +125,13 @@
         "trad":  "家長制‘",
         "pinyin":  "jiāzhǎngzhì ‘",
         "definition":  "Parental system",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -142,13 +142,13 @@
         "trad":  "計劃生育",
         "pinyin":  "jì huà shēng yù",
         "definition":  "family planning policy",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -159,13 +159,13 @@
         "trad":  "多子女",
         "pinyin":  "duō zǐnǚ",
         "definition":  "Multi -child",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -176,13 +176,13 @@
         "trad":  "四二一家庭",
         "pinyin":  "sì èr yī jiā tíng",
         "definition":  "4-2-1 family structure (four grandparents, two parents, one child)",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -193,13 +193,13 @@
         "trad":  "溺愛",
         "pinyin":  "nì\u0027ài",
         "definition":  "spoil",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -210,13 +210,13 @@
         "trad":  "壓力",
         "pinyin":  "yālì",
         "definition":  "pressure",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -227,13 +227,13 @@
         "trad":  "開放二胎",
         "pinyin":  "kāi fàng èr tāi",
         "definition":  "two-child policy",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -244,13 +244,13 @@
         "trad":  "長幼有序",
         "pinyin":  "zhǎng yòu yǒu xù",
         "definition":  "respect for seniority (orderly arrangement between young and old)",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -261,13 +261,13 @@
         "trad":  "稱呼",
         "pinyin":  "chēnghu",
         "definition":  "call",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -278,13 +278,13 @@
         "trad":  "人口",
         "pinyin":  "rénkǒu",
         "definition":  "population",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -295,13 +295,13 @@
         "trad":  "增長",
         "pinyin":  "zēngzhǎng",
         "definition":  "increase",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -312,13 +312,13 @@
         "trad":  "控制",
         "pinyin":  "kòngzhì",
         "definition":  "control",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -329,13 +329,13 @@
         "trad":  "傳統",
         "pinyin":  "chuántǒng",
         "definition":  "Tradition",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -346,13 +346,13 @@
         "trad":  "長輩",
         "pinyin":  "zhǎngbèi",
         "definition":  "elder",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -363,13 +363,13 @@
         "trad":  "晚輩",
         "pinyin":  "wǎnbèi",
         "definition":  "younger generation",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -380,13 +380,13 @@
         "trad":  "政府",
         "pinyin":  "zhèngfǔ",
         "definition":  "government",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -397,13 +397,13 @@
         "trad":  "政策",
         "pinyin":  "zhèngcè",
         "definition":  "policy",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -414,13 +414,13 @@
         "trad":  "寵愛",
         "pinyin":  "chǒng\u0027ài",
         "definition":  "pet",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -431,13 +431,13 @@
         "trad":  "寶貝",
         "pinyin":  "bǎobèi",
         "definition":  "baby",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -448,13 +448,13 @@
         "trad":  "皇帝",
         "pinyin":  "huángdì",
         "definition":  "emperor",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -465,13 +465,13 @@
         "trad":  "自私",
         "pinyin":  "zìsī",
         "definition":  "Selfish",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -482,13 +482,13 @@
         "trad":  "孤獨",
         "pinyin":  "gūdú",
         "definition":  "Lonely",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -499,13 +499,13 @@
         "trad":  "弱點",
         "pinyin":  "ruòdiǎn",
         "definition":  "weakness",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -516,13 +516,13 @@
         "trad":  "父母",
         "pinyin":  "fùmǔ",
         "definition":  "parents",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -533,13 +533,13 @@
         "trad":  "討論",
         "pinyin":  "tǎolùn",
         "definition":  "discuss",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -550,13 +550,13 @@
         "trad":  "受到",
         "pinyin":  "shòudào",
         "definition":  "Suffer",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -567,13 +567,13 @@
         "trad":  "條件",
         "pinyin":  "tiáojiàn",
         "definition":  "condition",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -584,13 +584,13 @@
         "trad":  "童年",
         "pinyin":  "tóngnián",
         "definition":  "childhood",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -601,13 +601,13 @@
         "trad":  "良好教育",
         "pinyin":  "liánghǎo jiàoyù",
         "definition":  "Good education",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -618,13 +618,13 @@
         "trad":  "存錢",
         "pinyin":  "cún qián",
         "definition":  "Save money",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -635,13 +635,13 @@
         "trad":  "收入",
         "pinyin":  "shōurù",
         "definition":  "income",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -652,13 +652,13 @@
         "trad":  "指出",
         "pinyin":  "zhǐchū",
         "definition":  "Point out",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -669,13 +669,13 @@
         "trad":  "課後班",
         "pinyin":  "kè hòu bān",
         "definition":  "After -school shift",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -686,13 +686,13 @@
         "trad":  "心事",
         "pinyin":  "xīnshì",
         "definition":  "Mind",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -703,13 +703,13 @@
         "trad":  "心情",
         "pinyin":  "xīnqíng",
         "definition":  "Feeling",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -720,13 +720,13 @@
         "trad":  "校內",
         "pinyin":  "xiàonèi",
         "definition":  "In -school",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -737,13 +737,13 @@
         "trad":  "校外",
         "pinyin":  "xiàowài",
         "definition":  "Off -campus",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -754,13 +754,13 @@
         "trad":  "相處",
         "pinyin":  "xiāngchǔ",
         "definition":  "get along",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -771,13 +771,13 @@
         "trad":  "新聞",
         "pinyin":  "xīnwén",
         "definition":  "news",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -788,13 +788,13 @@
         "trad":  "侄女",
         "pinyin":  "zhínǚ",
         "definition":  "niece",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -805,13 +805,13 @@
         "trad":  "指導",
         "pinyin":  "zhǐdǎo",
         "definition":  "guide",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -822,13 +822,13 @@
         "trad":  "尊重",
         "pinyin":  "zūnzhòng",
         "definition":  "respect",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -839,13 +839,13 @@
         "trad":  "賺錢",
         "pinyin":  "zhuànqián",
         "definition":  "make money",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -856,13 +856,13 @@
         "trad":  "自然",
         "pinyin":  "zìrán",
         "definition":  "nature",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -873,13 +873,13 @@
         "trad":  "知識",
         "pinyin":  "zhīshì",
         "definition":  "Knowledge",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -890,13 +890,13 @@
         "trad":  "爺爺",
         "pinyin":  "yéyé",
         "definition":  "grandfather",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -907,13 +907,13 @@
         "trad":  "奶奶",
         "pinyin":  "nǎinai",
         "definition":  "grandmother",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -924,13 +924,13 @@
         "trad":  "上機",
         "pinyin":  "shàng jī",
         "definition":  "on board",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -941,13 +941,13 @@
         "trad":  "做瑜伽",
         "pinyin":  "zuò yújiā",
         "definition":  "Yoga",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -958,13 +958,13 @@
         "trad":  "零用錢",
         "pinyin":  "língyòng qián",
         "definition":  "pocket money",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -975,13 +975,13 @@
         "trad":  "鬧彆扭",
         "pinyin":  "nàobièniu",
         "definition":  "Awkward",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -992,13 +992,13 @@
         "trad":  "可靠",
         "pinyin":  "kěkào",
         "definition":  "reliable",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1009,13 +1009,13 @@
         "trad":  "安排",
         "pinyin":  "ānpái",
         "definition":  "arrange",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1026,13 +1026,13 @@
         "trad":  "大人",
         "pinyin":  "dàrén",
         "definition":  "grown ups",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1043,13 +1043,13 @@
         "trad":  "道理",
         "pinyin":  "dàolǐ",
         "definition":  "reason",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1060,13 +1060,13 @@
         "trad":  "兒童",
         "pinyin":  "értóng",
         "definition":  "child",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1077,13 +1077,13 @@
         "trad":  "乖",
         "pinyin":  "guāi",
         "definition":  "good",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1094,13 +1094,13 @@
         "trad":  "管",
         "pinyin":  "guǎn",
         "definition":  "Tube",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1111,13 +1111,13 @@
         "trad":  "家長",
         "pinyin":  "jiāzhǎng",
         "definition":  "Parent",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1128,13 +1128,13 @@
         "trad":  "教育",
         "pinyin":  "jiàoyù",
         "definition":  "educate",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1145,13 +1145,13 @@
         "trad":  "厲害",
         "pinyin":  "lìhài",
         "definition":  "sharp",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1162,13 +1162,13 @@
         "trad":  "美滿",
         "pinyin":  "měimǎn",
         "definition":  "happy",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1179,13 +1179,13 @@
         "trad":  "虎媽",
         "pinyin":  "hǔ mā",
         "definition":  "Tiger mother",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1196,13 +1196,13 @@
         "trad":  "育兒",
         "pinyin":  "yù\u0027ér",
         "definition":  "Parenting",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1213,13 +1213,13 @@
         "trad":  "貧",
         "pinyin":  "pín",
         "definition":  "poor",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1230,13 +1230,13 @@
         "trad":  "省（下來）",
         "pinyin":  "shěng (xiàlái)",
         "definition":  "Save it)",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1247,13 +1247,13 @@
         "trad":  "家教",
         "pinyin":  "jiājiào",
         "definition":  "Tutor",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1264,13 +1264,13 @@
         "trad":  "美國夢",
         "pinyin":  "měiguó mèng",
         "definition":  "American dream",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1281,13 +1281,13 @@
         "trad":  "快樂童年",
         "pinyin":  "kuàilè tóngnián",
         "definition":  "happy childhood",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1298,13 +1298,13 @@
         "trad":  "衣食住行",
         "pinyin":  "yīshízhùxíng",
         "definition":  "Clothing and food",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1315,13 +1315,13 @@
         "trad":  "起跑線",
         "pinyin":  "qǐpǎoxiàn",
         "definition":  "starting line",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1332,13 +1332,13 @@
         "trad":  "發生",
         "pinyin":  "fāshēng",
         "definition":  "occur",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1349,13 +1349,13 @@
         "trad":  "棍棒教育",
         "pinyin":  "gùnbàng jiàoyù",
         "definition":  "Stick education",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1366,13 +1366,13 @@
         "trad":  "好看",
         "pinyin":  "hǎokàn",
         "definition":  "nice",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1383,13 +1383,13 @@
         "trad":  "口水",
         "pinyin":  "kǒushuǐ",
         "definition":  "saliva",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1400,13 +1400,13 @@
         "trad":  "口味",
         "pinyin":  "kǒuwèi",
         "definition":  "taste",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1417,13 +1417,13 @@
         "trad":  "嫩",
         "pinyin":  "nèn",
         "definition":  "Tender",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1434,13 +1434,13 @@
         "trad":  "放心",
         "pinyin":  "fàngxīn",
         "definition":  "rest assured",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1451,13 +1451,13 @@
         "trad":  "分別",
         "pinyin":  "fēnbié",
         "definition":  "respectively",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1468,13 +1468,13 @@
         "trad":  "風俗",
         "pinyin":  "fēngsú",
         "definition":  "custom",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1485,13 +1485,13 @@
         "trad":  "福",
         "pinyin":  "fú",
         "definition":  "blessing",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1502,13 +1502,13 @@
         "trad":  "感恩節",
         "pinyin":  "gǎn\u0027ēn jié",
         "definition":  "Thanksgiving Day",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1519,13 +1519,13 @@
         "trad":  "咕嚕肉",
         "pinyin":  "gūlū ròu",
         "definition":  "Sweet and Sour Pork",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1536,13 +1536,13 @@
         "trad":  "姑媽",
         "pinyin":  "gūmā",
         "definition":  "aunt",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1553,13 +1553,13 @@
         "trad":  "關照",
         "pinyin":  "guānzhào",
         "definition":  "care",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1570,13 +1570,13 @@
         "trad":  "關係",
         "pinyin":  "guānxì",
         "definition":  "relation",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1587,13 +1587,13 @@
         "trad":  "歸來",
         "pinyin":  "guīlái",
         "definition":  "Return",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1604,13 +1604,13 @@
         "trad":  "櫃子",
         "pinyin":  "guìzǐ",
         "definition":  "cabinet",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1621,13 +1621,13 @@
         "trad":  "紅包",
         "pinyin":  "hóngbāo",
         "definition":  "Red envelope",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1638,13 +1638,13 @@
         "trad":  "火鍋",
         "pinyin":  "huǒguō",
         "definition":  "hot pot",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1655,13 +1655,13 @@
         "trad":  "家務",
         "pinyin":  "jiāwù",
         "definition":  "housework",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1672,13 +1672,13 @@
         "trad":  "家鄉",
         "pinyin":  "jiāxiāng",
         "definition":  "hometown",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1689,13 +1689,13 @@
         "trad":  "餞行",
         "pinyin":  "jiànxíng",
         "definition":  "Rush",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1706,13 +1706,13 @@
         "trad":  "獎學金",
         "pinyin":  "jiǎngxuéjīn",
         "definition":  "scholarship",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1723,13 +1723,13 @@
         "trad":  "接風",
         "pinyin":  "jiēfēng",
         "definition":  "Get off the wind",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1740,13 +1740,13 @@
         "trad":  "接近",
         "pinyin":  "jiējìn",
         "definition":  "near",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1757,13 +1757,13 @@
         "trad":  "結婚",
         "pinyin":  "jiéhūn",
         "definition":  "marry",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1774,13 +1774,13 @@
         "trad":  "解釋",
         "pinyin":  "jiěshì",
         "definition":  "explain",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1791,13 +1791,13 @@
         "trad":  "姐妹",
         "pinyin":  "jiěmèi",
         "definition":  "sisters",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1808,13 +1808,13 @@
         "trad":  "酒",
         "pinyin":  "jiǔ",
         "definition":  "liquor",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1825,13 +1825,13 @@
         "trad":  "舅舅(媽)",
         "pinyin":  "jiùjiu (mā)",
         "definition":  "(Mom)",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1842,13 +1842,13 @@
         "trad":  "聯歡會",
         "pinyin":  "liánhuān huì",
         "definition":  "Gala",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1859,13 +1859,13 @@
         "trad":  "聚會",
         "pinyin":  "jùhuì",
         "definition":  "reunion",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1876,13 +1876,13 @@
         "trad":  "晚會",
         "pinyin":  "wǎnhuì",
         "definition":  "Party",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1893,13 +1893,13 @@
         "trad":  "速食",
         "pinyin":  "kuàicān",
         "definition":  "fast food",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1910,13 +1910,13 @@
         "trad":  "筷子",
         "pinyin":  "kuàizǐ",
         "definition":  "Chopsticks",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1927,13 +1927,13 @@
         "trad":  "老年",
         "pinyin":  "lǎonián",
         "definition":  "elderly",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1944,13 +1944,13 @@
         "trad":  "老太太",
         "pinyin":  "lǎo tàitài",
         "definition":  "old lady",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1961,13 +1961,13 @@
         "trad":  "理解",
         "pinyin":  "lǐjiě",
         "definition":  "understand",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1978,13 +1978,13 @@
         "trad":  "了解",
         "pinyin":  "liǎojiě",
         "definition":  "learn",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -1995,13 +1995,13 @@
         "trad":  "聯繫",
         "pinyin":  "liánxì",
         "definition":  "connect",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2012,13 +2012,13 @@
         "trad":  "矛盾",
         "pinyin":  "máodùn",
         "definition":  "contradiction",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2029,13 +2029,13 @@
         "trad":  "年輕",
         "pinyin":  "niánqīng",
         "definition":  "young",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2046,13 +2046,13 @@
         "trad":  "農曆",
         "pinyin":  "nónglì",
         "definition":  "lunar calendar",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2063,13 +2063,13 @@
         "trad":  "陪",
         "pinyin":  "péi",
         "definition":  "accompany",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2080,13 +2080,13 @@
         "trad":  "夫妻",
         "pinyin":  "fūqī",
         "definition":  "couple",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2097,13 +2097,13 @@
         "trad":  "妻管炎",
         "pinyin":  "qī guǎn yán",
         "definition":  "Wives",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2114,13 +2114,13 @@
         "trad":  "未婚妻",
         "pinyin":  "wèihūnqī",
         "definition":  "fiancée",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2131,13 +2131,13 @@
         "trad":  "妻子",
         "pinyin":  "qīzǐ",
         "definition":  "wife",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2148,13 +2148,13 @@
         "trad":  "丈夫",
         "pinyin":  "zhàngfū",
         "definition":  "husband",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2165,13 +2165,13 @@
         "trad":  "氣氛",
         "pinyin":  "qìfēn",
         "definition":  "atmosphere",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2182,13 +2182,13 @@
         "trad":  "千千萬萬",
         "pinyin":  "qiān qiān wàn wàn",
         "definition":  "Tens of millions",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2199,13 +2199,13 @@
         "trad":  "清淡",
         "pinyin":  "qīngdàn",
         "definition":  "Light",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2216,13 +2216,13 @@
         "trad":  "清蒸",
         "pinyin":  "qīngzhēng",
         "definition":  "Steamed",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2233,13 +2233,13 @@
         "trad":  "慶祝",
         "pinyin":  "qìngzhù",
         "definition":  "celebrate",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2250,13 +2250,13 @@
         "trad":  "祝賀",
         "pinyin":  "zhùhè",
         "definition":  "congratulate",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2267,13 +2267,13 @@
         "trad":  "熱鬧",
         "pinyin":  "rènào",
         "definition":  "lively",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2284,13 +2284,13 @@
         "trad":  "認為",
         "pinyin":  "rènwéi",
         "definition":  "think",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2301,13 +2301,13 @@
         "trad":  "以為",
         "pinyin":  "yǐwéi",
         "definition":  "Think",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2318,13 +2318,13 @@
         "trad":  "嫂子",
         "pinyin":  "sǎozǐ",
         "definition":  "sister in law",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2335,13 +2335,13 @@
         "trad":  "社會",
         "pinyin":  "shèhuì",
         "definition":  "society",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2352,13 +2352,13 @@
         "trad":  "生活",
         "pinyin":  "shēnghuó",
         "definition":  "Life",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2369,13 +2369,13 @@
         "trad":  "熟悉",
         "pinyin":  "shúxī",
         "definition":  "familiar",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2386,13 +2386,13 @@
         "trad":  "思考",
         "pinyin":  "sīkǎo",
         "definition":  "think",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2403,13 +2403,13 @@
         "trad":  "思想",
         "pinyin":  "sīxiǎng",
         "definition":  "Thought",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2420,13 +2420,13 @@
         "trad":  "孫女",
         "pinyin":  "sūnnǚ",
         "definition":  "granddaughter",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2437,13 +2437,13 @@
         "trad":  "孫子",
         "pinyin":  "sūnzǐ",
         "definition":  "grandson",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2454,13 +2454,13 @@
         "trad":  "團圓",
         "pinyin":  "tuányuán",
         "definition":  "reunion",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2471,13 +2471,13 @@
         "trad":  "握手",
         "pinyin":  "wòshǒu",
         "definition":  "shake hands",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2488,13 +2488,13 @@
         "trad":  "禮物",
         "pinyin":  "lǐwù",
         "definition":  "Gift",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2505,13 +2505,13 @@
         "trad":  "幸福",
         "pinyin":  "xìngfú",
         "definition":  "happiness",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2522,13 +2522,13 @@
         "trad":  "擁抱",
         "pinyin":  "yǒngbào",
         "definition":  "Embrace",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2539,13 +2539,13 @@
         "trad":  "元宵節",
         "pinyin":  "yuánxiāo jié",
         "definition":  "Lantern Festival",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2556,13 +2556,13 @@
         "trad":  "月餅",
         "pinyin":  "yuèbǐng",
         "definition":  "moon cake",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2573,13 +2573,13 @@
         "trad":  "正月",
         "pinyin":  "zhēngyuè",
         "definition":  "First month",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2590,13 +2590,13 @@
         "trad":  "粽子",
         "pinyin":  "zòngzǐ",
         "definition":  "Zongzi",
-        "chineseDef":  "Unit 1: 家庭与社会 (Families in Societies) 重点词汇",
-        "unit":  "Unit 1: Families in Societies",
-        "unitZh":  "Unit 1: 家庭与社会 (Families in Societies)",
+        "chineseDef":  "Unit 1: 家庭与社区 (Families and Communities) 重点词汇",
+        "unit":  "Unit 1: Families and Communities",
+        "unitZh":  "Unit 1: 家庭与社区 (Families and Communities)",
         "unitId":  "u1",
         "tags":  [
                      "AP Chinese",
-                     "Unit 1: 家庭与社会 (Families in Societies)"
+                     "Unit 1: 家庭与社区 (Families and Communities)"
                  ],
         "mastered":  false
     },
@@ -2607,13 +2607,13 @@
         "trad":  "背景",
         "pinyin":  "bèijǐng",
         "definition":  "background",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2624,13 +2624,13 @@
         "trad":  "表現",
         "pinyin":  "biǎoxiàn",
         "definition":  "Performance",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2641,13 +2641,13 @@
         "trad":  "博士",
         "pinyin":  "bóshì",
         "definition":  "PhD",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2658,13 +2658,13 @@
         "trad":  "不斷",
         "pinyin":  "bùduàn",
         "definition":  "Constant",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2675,13 +2675,13 @@
         "trad":  "參加",
         "pinyin":  "cānjiā",
         "definition":  "join",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2692,13 +2692,13 @@
         "trad":  "參觀",
         "pinyin":  "cānguān",
         "definition":  "visit",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2709,13 +2709,13 @@
         "trad":  "成功",
         "pinyin":  "chénggōng",
         "definition":  "success",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2726,13 +2726,13 @@
         "trad":  "成績",
         "pinyin":  "chéngjì",
         "definition":  "score",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2743,13 +2743,13 @@
         "trad":  "成為",
         "pinyin":  "chéngwéi",
         "definition":  "become",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2760,13 +2760,13 @@
         "trad":  "成人",
         "pinyin":  "chéngrén",
         "definition":  "aldult",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2777,13 +2777,13 @@
         "trad":  "大人",
         "pinyin":  "dàrén",
         "definition":  "grown ups",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2794,13 +2794,13 @@
         "trad":  "讀書",
         "pinyin":  "dúshū",
         "definition":  "read",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2811,13 +2811,13 @@
         "trad":  "隊員",
         "pinyin":  "duìyuán",
         "definition":  "Player",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2828,13 +2828,13 @@
         "trad":  "標準",
         "pinyin":  "biāozhǔn",
         "definition":  "standard",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2845,13 +2845,13 @@
         "trad":  "教授",
         "pinyin":  "jiàoshòu",
         "definition":  "professor",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2862,13 +2862,13 @@
         "trad":  "留學生",
         "pinyin":  "liúxuéshēng",
         "definition":  "Abroad student",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2879,13 +2879,13 @@
         "trad":  "碩士",
         "pinyin":  "shuòshì",
         "definition":  "master",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2896,13 +2896,13 @@
         "trad":  "性格",
         "pinyin":  "xìnggé",
         "definition":  "character",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2913,13 +2913,13 @@
         "trad":  "學分",
         "pinyin":  "xuéfēn",
         "definition":  "credit",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2930,13 +2930,13 @@
         "trad":  "學位",
         "pinyin":  "xuéwèi",
         "definition":  "Bachelor of Science",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2947,13 +2947,13 @@
         "trad":  "病人",
         "pinyin":  "bìngrén",
         "definition":  "patient",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2964,13 +2964,13 @@
         "trad":  "老師/教師",
         "pinyin":  "lǎoshī/jiàoshī",
         "definition":  "Teacher/teacher",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2981,13 +2981,13 @@
         "trad":  "服務生",
         "pinyin":  "fúwùyuán",
         "definition":  "waiter",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -2998,13 +2998,13 @@
         "trad":  "飛行員",
         "pinyin":  "fēixíngyuán",
         "definition":  "pilot",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3015,13 +3015,13 @@
         "trad":  "工程師",
         "pinyin":  "gōngchéngshī",
         "definition":  "engineer",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3032,13 +3032,13 @@
         "trad":  "律師",
         "pinyin":  "lǜshī",
         "definition":  "lawyer",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3049,13 +3049,13 @@
         "trad":  "師傅",
         "pinyin":  "shīfù",
         "definition":  "master",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3066,13 +3066,13 @@
         "trad":  "條件",
         "pinyin":  "tiáojiàn",
         "definition":  "condition",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3083,13 +3083,13 @@
         "trad":  "部",
         "pinyin":  "bù",
         "definition":  "department",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3100,13 +3100,13 @@
         "trad":  "出版",
         "pinyin":  "chūbǎn",
         "definition":  "publishing",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3117,13 +3117,13 @@
         "trad":  "高中",
         "pinyin":  "gāozhōng",
         "definition":  "high school",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3134,13 +3134,13 @@
         "trad":  "卡拉OK",
         "pinyin":  "kǎlā ok",
         "definition":  "Karaoke",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3151,13 +3151,13 @@
         "trad":  "科",
         "pinyin":  "kē",
         "definition":  "division",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3168,13 +3168,13 @@
         "trad":  "民族",
         "pinyin":  "mínzú",
         "definition":  "nationality",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3185,13 +3185,13 @@
         "trad":  "人材",
         "pinyin":  "réncái",
         "definition":  "Personality",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3202,13 +3202,13 @@
         "trad":  "系",
         "pinyin":  "xì",
         "definition":  "Tie",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3219,13 +3219,13 @@
         "trad":  "小學",
         "pinyin":  "xiǎo xué",
         "definition":  "primary school",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3236,13 +3236,13 @@
         "trad":  "校內",
         "pinyin":  "xiào nèi",
         "definition":  "In -school",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3253,13 +3253,13 @@
         "trad":  "校外",
         "pinyin":  "xiàowài",
         "definition":  "Off -campus",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3270,13 +3270,13 @@
         "trad":  "研究",
         "pinyin":  "yánjiū",
         "definition":  "Research",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3287,13 +3287,13 @@
         "trad":  "研究生",
         "pinyin":  "yánjiūshēng",
         "definition":  "postgraduate",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3304,13 +3304,13 @@
         "trad":  "銀行",
         "pinyin":  "yínháng",
         "definition":  "bank",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3321,13 +3321,13 @@
         "trad":  "英語",
         "pinyin":  "yīngyǔ",
         "definition":  "English",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3338,13 +3338,13 @@
         "trad":  "哲學",
         "pinyin":  "zhéxué",
         "definition":  "philosophy",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3355,13 +3355,13 @@
         "trad":  "政府",
         "pinyin":  "zhèngfǔ",
         "definition":  "government",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3372,13 +3372,13 @@
         "trad":  "發展",
         "pinyin":  "fāzhǎn",
         "definition":  "develop",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3389,13 +3389,13 @@
         "trad":  "翻譯",
         "pinyin":  "fānyì",
         "definition":  "translate",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3406,13 +3406,13 @@
         "trad":  "感覺",
         "pinyin":  "gǎnjué",
         "definition":  "Feel",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3423,13 +3423,13 @@
         "trad":  "感情",
         "pinyin":  "gǎnqíng",
         "definition":  "emotion",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3440,13 +3440,13 @@
         "trad":  "鋼琴",
         "pinyin":  "gāngqín",
         "definition":  "piano",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3457,13 +3457,13 @@
         "trad":  "工學院",
         "pinyin":  "gōng xuéyuàn",
         "definition":  "College",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3474,13 +3474,13 @@
         "trad":  "公共場所",
         "pinyin":  "gōnggòng chǎngsuǒ",
         "definition":  "Public places",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3491,13 +3491,13 @@
         "trad":  "公平",
         "pinyin":  "gōngpíng",
         "definition":  "fair",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3508,13 +3508,13 @@
         "trad":  "貢獻",
         "pinyin":  "gòngxiàn",
         "definition":  "contribute",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3525,13 +3525,13 @@
         "trad":  "管",
         "pinyin":  "guǎn",
         "definition":  "Tube",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3542,13 +3542,13 @@
         "trad":  "管理學院",
         "pinyin":  "guǎnlǐ xuéyuàn",
         "definition":  "School of Management",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3559,13 +3559,13 @@
         "trad":  "冠軍",
         "pinyin":  "guànjūn",
         "definition":  "champion",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3576,13 +3576,13 @@
         "trad":  "規定",
         "pinyin":  "guīdìng",
         "definition":  "Regulation",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3593,13 +3593,13 @@
         "trad":  "國家",
         "pinyin":  "guójiā",
         "definition":  "nation",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3610,13 +3610,13 @@
         "trad":  "國外",
         "pinyin":  "guówài",
         "definition":  "foreign",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3627,13 +3627,13 @@
         "trad":  "海龜",
         "pinyin":  "hǎiguī",
         "definition":  "Turtle",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3644,13 +3644,13 @@
         "trad":  "海外",
         "pinyin":  "hǎiwài",
         "definition":  "overseas",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3661,13 +3661,13 @@
         "trad":  "皇帝",
         "pinyin":  "huángdì",
         "definition":  "emperor",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3678,13 +3678,13 @@
         "trad":  "基礎",
         "pinyin":  "jīchǔ",
         "definition":  "Base",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3695,13 +3695,13 @@
         "trad":  "機會",
         "pinyin":  "jīhuì",
         "definition":  "Chance",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3712,13 +3712,13 @@
         "trad":  "計時",
         "pinyin":  "jìshí",
         "definition":  "Timing",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3729,13 +3729,13 @@
         "trad":  "驕傲",
         "pinyin":  "jiāo\u0027ào",
         "definition":  "pride",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3746,13 +3746,13 @@
         "trad":  "教育",
         "pinyin":  "jiàoyù",
         "definition":  "educate",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3763,13 +3763,13 @@
         "trad":  "接受",
         "pinyin":  "jiēshòu",
         "definition":  "accept",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3780,13 +3780,13 @@
         "trad":  "主管",
         "pinyin":  "jīnglǐ",
         "definition":  "manager",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3797,13 +3797,13 @@
         "trad":  "開朗",
         "pinyin":  "kāilǎng",
         "definition":  "Cheerful",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3814,13 +3814,13 @@
         "trad":  "考慮",
         "pinyin":  "kǎolǜ",
         "definition":  "consider",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3831,13 +3831,13 @@
         "trad":  "可靠",
         "pinyin":  "kěkào",
         "definition":  "reliable",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3848,13 +3848,13 @@
         "trad":  "可怕",
         "pinyin":  "kěpà",
         "definition":  "horrible",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3865,13 +3865,13 @@
         "trad":  "跨國",
         "pinyin":  "kuàguó",
         "definition":  "transnational",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3882,13 +3882,13 @@
         "trad":  "老百姓",
         "pinyin":  "lǎobǎixìng",
         "definition":  "Ordinary people",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3899,13 +3899,13 @@
         "trad":  "老外",
         "pinyin":  "lǎowài",
         "definition":  "foreigner",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3916,13 +3916,13 @@
         "trad":  "厲害",
         "pinyin":  "lìhài",
         "definition":  "sharp",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3933,13 +3933,13 @@
         "trad":  "歷史",
         "pinyin":  "lìshǐ",
         "definition":  "history",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3950,13 +3950,13 @@
         "trad":  "錄用",
         "pinyin":  "lùyòng",
         "definition":  "Hire",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3967,13 +3967,13 @@
         "trad":  "錄取",
         "pinyin":  "lùqǔ",
         "definition":  "Admission",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -3984,13 +3984,13 @@
         "trad":  "落伍",
         "pinyin":  "luòwǔ",
         "definition":  "Outdoor",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4001,13 +4001,13 @@
         "trad":  "滿意",
         "pinyin":  "mǎnyì",
         "definition":  "satisfy",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4018,13 +4018,13 @@
         "trad":  "面積",
         "pinyin":  "miànjī",
         "definition":  "area",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4035,13 +4035,13 @@
         "trad":  "陌生",
         "pinyin":  "mòshēng",
         "definition":  "strangeness",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4052,13 +4052,13 @@
         "trad":  "墨西哥",
         "pinyin":  "mòxīgē",
         "definition":  "Mexico",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4069,13 +4069,13 @@
         "trad":  "農村",
         "pinyin":  "nóngcūn",
         "definition":  "Rural",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4086,13 +4086,13 @@
         "trad":  "歐洲",
         "pinyin":  "ōuzhōu",
         "definition":  "Europe",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4103,13 +4103,13 @@
         "trad":  "事業",
         "pinyin":  "shìyè",
         "definition":  "cause",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4120,13 +4120,13 @@
         "trad":  "畢業",
         "pinyin":  "bìyè",
         "definition":  "graduate",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4137,13 +4137,13 @@
         "trad":  "情況",
         "pinyin":  "qíngkuàng",
         "definition":  "Condition",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4154,13 +4154,13 @@
         "trad":  "缺點",
         "pinyin":  "quēdiǎn",
         "definition":  "shortcoming",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4171,13 +4171,13 @@
         "trad":  "上班",
         "pinyin":  "shàngbān",
         "definition":  "work",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4188,13 +4188,13 @@
         "trad":  "申請",
         "pinyin":  "shēnqǐng",
         "definition":  "Apply",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4205,13 +4205,13 @@
         "trad":  "順利",
         "pinyin":  "shùnlì",
         "definition":  "smoothly",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4222,13 +4222,13 @@
         "trad":  "說服",
         "pinyin":  "shuōfú",
         "definition":  "persuade",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4239,13 +4239,13 @@
         "trad":  "討論",
         "pinyin":  "tǎolùn",
         "definition":  "discuss",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4256,13 +4256,13 @@
         "trad":  "討厭",
         "pinyin":  "tǎoyàn",
         "definition":  "Hate",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4273,13 +4273,13 @@
         "trad":  "提(高)",
         "pinyin":  "tí (gāo)",
         "definition":  "improve)",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4290,13 +4290,13 @@
         "trad":  "推銷",
         "pinyin":  "tuīxiāo",
         "definition":  "sell",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4307,13 +4307,13 @@
         "trad":  "望子成龍",
         "pinyin":  "wàng zǐ chéng lóng",
         "definition":  "hope one\u0027s son becomes successful (lit. become a dragon)",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4324,13 +4324,13 @@
         "trad":  "望女成鳳",
         "pinyin":  "wàng nǚ chéng fèng",
         "definition":  "hope one\u0027s daughter becomes successful (lit. become a phoenix)",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4341,13 +4341,13 @@
         "trad":  "偉大",
         "pinyin":  "wěidà",
         "definition":  "great",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4358,13 +4358,13 @@
         "trad":  "體貼",
         "pinyin":  "tǐtiē",
         "definition":  "Considerate",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4375,13 +4375,13 @@
         "trad":  "習慣",
         "pinyin":  "xíguàn",
         "definition":  "Habit",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4392,13 +4392,13 @@
         "trad":  "嚇人",
         "pinyin":  "xiàrén",
         "definition":  "Scary",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4409,13 +4409,13 @@
         "trad":  "嫌",
         "pinyin":  "xián",
         "definition":  "Dislike",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4426,13 +4426,13 @@
         "trad":  "相信",
         "pinyin":  "xiāngxìn",
         "definition":  "believe",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4443,13 +4443,13 @@
         "trad":  "想法",
         "pinyin":  "xiǎngfǎ",
         "definition":  "idea",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4460,13 +4460,13 @@
         "trad":  "新生",
         "pinyin":  "xīnshēng",
         "definition":  "newborn",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4477,13 +4477,13 @@
         "trad":  "選擇",
         "pinyin":  "xuǎnzé",
         "definition":  "choose",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4494,13 +4494,13 @@
         "trad":  "學有所成",
         "pinyin":  "xué yǒu suǒ chéng",
         "definition":  "learning success",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4511,13 +4511,13 @@
         "trad":  "壓力",
         "pinyin":  "yālì",
         "definition":  "pressure",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4528,13 +4528,13 @@
         "trad":  "一干二淨",
         "pinyin":  "yīgān èr jìng",
         "definition":  "One -time",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4545,13 +4545,13 @@
         "trad":  "優秀",
         "pinyin":  "yōuxiù",
         "definition":  "excellent",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4562,13 +4562,13 @@
         "trad":  "優點",
         "pinyin":  "yōudiǎn",
         "definition":  "advantage",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4579,13 +4579,13 @@
         "trad":  "幽默",
         "pinyin":  "yōumò",
         "definition":  "humor",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4596,13 +4596,13 @@
         "trad":  "友誼",
         "pinyin":  "yǒuyì",
         "definition":  "friendship",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4613,13 +4613,13 @@
         "trad":  "真心",
         "pinyin":  "zhēnxīn",
         "definition":  "sincere",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4630,13 +4630,13 @@
         "trad":  "著急",
         "pinyin":  "zhāojí",
         "definition":  "in a hurry",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4647,13 +4647,13 @@
         "trad":  "整天",
         "pinyin":  "zhěng tiān",
         "definition":  "All day",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4664,13 +4664,13 @@
         "trad":  "知音",
         "pinyin":  "zhīyīn",
         "definition":  "Bosom friend",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4681,13 +4681,13 @@
         "trad":  "職業",
         "pinyin":  "zhíyè",
         "definition":  "Profession",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4698,13 +4698,13 @@
         "trad":  "重男輕女",
         "pinyin":  "zhòngnán qīng nǚ",
         "definition":  "Pilotype",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4715,13 +4715,13 @@
         "trad":  "重視",
         "pinyin":  "zhòngshì",
         "definition":  "Pay attention to",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4732,13 +4732,13 @@
         "trad":  "眾人",
         "pinyin":  "zhòngrén",
         "definition":  "Crowd",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4749,13 +4749,13 @@
         "trad":  "自由",
         "pinyin":  "zìyóu",
         "definition":  "free",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4766,13 +4766,13 @@
         "trad":  "做法",
         "pinyin":  "zuòfǎ",
         "definition":  "practice",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4783,13 +4783,13 @@
         "trad":  "碰見",
         "pinyin":  "pèngjiàn",
         "definition":  "meet",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4800,13 +4800,13 @@
         "trad":  "活力",
         "pinyin":  "huólì",
         "definition":  "vitality",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4817,13 +4817,13 @@
         "trad":  "倍",
         "pinyin":  "bèi",
         "definition":  "Double",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4834,13 +4834,13 @@
         "trad":  "態度",
         "pinyin":  "tàidù",
         "definition":  "manner",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4851,13 +4851,13 @@
         "trad":  "提條件",
         "pinyin":  "tí tiáojiàn",
         "definition":  "Conditional",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4868,13 +4868,13 @@
         "trad":  "心事",
         "pinyin":  "xīnshì",
         "definition":  "Mind",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4885,13 +4885,13 @@
         "trad":  "心情",
         "pinyin":  "xīnqíng",
         "definition":  "Feeling",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4902,13 +4902,13 @@
         "trad":  "影響",
         "pinyin":  "yǐngxiǎng",
         "definition":  "Influence",
-        "chineseDef":  "Unit 2: 个人与公众身份 (Personal and Public Identities) 重点词汇",
-        "unit":  "Unit 2: Personal and Public Identities",
-        "unitZh":  "Unit 2: 个人与公众身份 (Personal and Public Identities)",
+        "chineseDef":  "Unit 2: 语言与文化 (Language and Culture) 重点词汇",
+        "unit":  "Unit 2: Language and Culture",
+        "unitZh":  "Unit 2: 语言与文化 (Language and Culture)",
         "unitId":  "u2",
         "tags":  [
                      "AP Chinese",
-                     "Unit 2: 个人与公众身份 (Personal and Public Identities)"
+                     "Unit 2: 语言与文化 (Language and Culture)"
                  ],
         "mastered":  false
     },
@@ -4919,13 +4919,13 @@
         "trad":  "風景",
         "pinyin":  "fēngjǐng",
         "definition":  "landscape",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -4936,13 +4936,13 @@
         "trad":  "名勝古蹟",
         "pinyin":  "míng shèng gǔ jì",
         "definition":  "scenic spots and historical sites",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -4953,13 +4953,13 @@
         "trad":  "兵馬俑",
         "pinyin":  "bīng mǎ yǒng",
         "definition":  "Terracotta Warriors and Horses",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -4970,13 +4970,13 @@
         "trad":  "博物館",
         "pinyin":  "bówùguǎn",
         "definition":  "museum",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -4987,13 +4987,13 @@
         "trad":  "長城",
         "pinyin":  "chángchéng",
         "definition":  "Great Wall",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5004,13 +5004,13 @@
         "trad":  "朝代",
         "pinyin":  "cháodài",
         "definition":  "dynasty",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5021,13 +5021,13 @@
         "trad":  "出版",
         "pinyin":  "chūbǎn",
         "definition":  "publishing",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5038,13 +5038,13 @@
         "trad":  "寒假",
         "pinyin":  "hánjià",
         "definition":  "winter vacation",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5055,13 +5055,13 @@
         "trad":  "賓館",
         "pinyin":  "bīnguǎn",
         "definition":  "Hotel",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5072,13 +5072,13 @@
         "trad":  "電視劇",
         "pinyin":  "diànshìjù",
         "definition":  "TV drama",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5089,13 +5089,13 @@
         "trad":  "電影院",
         "pinyin":  "diànyǐngyuàn",
         "definition":  "Cinema",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5106,13 +5106,13 @@
         "trad":  "動作",
         "pinyin":  "dòngzuò",
         "definition":  "action",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5123,13 +5123,13 @@
         "trad":  "飯店",
         "pinyin":  "fàndiàn",
         "definition":  "Restaurant",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5140,13 +5140,13 @@
         "trad":  "廣東",
         "pinyin":  "guǎngdōng",
         "definition":  "Guangdong",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5157,13 +5157,13 @@
         "trad":  "廣州",
         "pinyin":  "guǎngzhōu",
         "definition":  "Guangzhou",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5174,13 +5174,13 @@
         "trad":  "遊覽點",
         "pinyin":  "yóulǎn diǎn",
         "definition":  "Tourist spot",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5191,13 +5191,13 @@
         "trad":  "鐵路",
         "pinyin":  "tiělù",
         "definition":  "railway",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5208,13 +5208,13 @@
         "trad":  "公路",
         "pinyin":  "gōnglù",
         "definition":  "highway",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5225,13 +5225,13 @@
         "trad":  "河流",
         "pinyin":  "héliú",
         "definition":  "river",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5242,13 +5242,13 @@
         "trad":  "高速公路",
         "pinyin":  "gāosù gōnglù",
         "definition":  "highway",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5259,13 +5259,13 @@
         "trad":  "黃河",
         "pinyin":  "huánghé",
         "definition":  "Yellow River",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5276,13 +5276,13 @@
         "trad":  "故鄉",
         "pinyin":  "gùxiāng",
         "definition":  "home",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5293,13 +5293,13 @@
         "trad":  "長江",
         "pinyin":  "chángjiāng",
         "definition":  "Yangtze",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5310,13 +5310,13 @@
         "trad":  "歷史",
         "pinyin":  "lìshǐ",
         "definition":  "history",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5327,13 +5327,13 @@
         "trad":  "南京",
         "pinyin":  "nánjīng",
         "definition":  "Nanjing",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5344,13 +5344,13 @@
         "trad":  "農村",
         "pinyin":  "nóngcūn",
         "definition":  "Rural",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5361,13 +5361,13 @@
         "trad":  "平原",
         "pinyin":  "píngyuán",
         "definition":  "Plain",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5378,13 +5378,13 @@
         "trad":  "沙漠",
         "pinyin":  "shāmò",
         "definition":  "desert",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5395,13 +5395,13 @@
         "trad":  "深圳",
         "pinyin":  "shēnzhèn",
         "definition":  "Shenzhen",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5412,13 +5412,13 @@
         "trad":  "四川",
         "pinyin":  "sìchuān",
         "definition":  "Sichuan",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5429,13 +5429,13 @@
         "trad":  "新疆",
         "pinyin":  "xīnjiāng",
         "definition":  "Xinjiang",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5446,13 +5446,13 @@
         "trad":  "演唱會",
         "pinyin":  "yǎnchàng huì",
         "definition":  "concert",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5463,13 +5463,13 @@
         "trad":  "演員",
         "pinyin":  "yǎnyuán",
         "definition":  "actor",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5480,13 +5480,13 @@
         "trad":  "銀行",
         "pinyin":  "yínháng",
         "definition":  "bank",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5497,13 +5497,13 @@
         "trad":  "雜誌",
         "pinyin":  "zázhì",
         "definition":  "Magazine",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5514,13 +5514,13 @@
         "trad":  "辦公室",
         "pinyin":  "bàngōngshì",
         "definition":  "office",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5531,13 +5531,13 @@
         "trad":  "旅館",
         "pinyin":  "lǚguǎn",
         "definition":  "hostel",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5548,13 +5548,13 @@
         "trad":  "夏威夷",
         "pinyin":  "xiàwēiyí",
         "definition":  "Hawaii",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5565,13 +5565,13 @@
         "trad":  "亞洲研究",
         "pinyin":  "yàzhōu yánjiū",
         "definition":  "Asian research",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5582,13 +5582,13 @@
         "trad":  "醫院",
         "pinyin":  "yīyuàn",
         "definition":  "Hospital",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5599,13 +5599,13 @@
         "trad":  "英國",
         "pinyin":  "yīngguó",
         "definition":  "U.K.",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5616,13 +5616,13 @@
         "trad":  "音樂會",
         "pinyin":  "yīnyuè huì",
         "definition":  "concert",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5633,13 +5633,13 @@
         "trad":  "越南",
         "pinyin":  "yuènán",
         "definition":  "Vietnam",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5650,13 +5650,13 @@
         "trad":  "中國城",
         "pinyin":  "zhōngguó chéng",
         "definition":  "China Town",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5667,13 +5667,13 @@
         "trad":  "山",
         "pinyin":  "shān",
         "definition":  "Mountain",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5684,13 +5684,13 @@
         "trad":  "天津",
         "pinyin":  "tiānjīn",
         "definition":  "Tianjin",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5701,13 +5701,13 @@
         "trad":  "餐館",
         "pinyin":  "cānguǎn",
         "definition":  "Restaurant",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5718,13 +5718,13 @@
         "trad":  "到處",
         "pinyin":  "dàochù",
         "definition":  "everywhere",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5735,13 +5735,13 @@
         "trad":  "地道",
         "pinyin":  "dìdào",
         "definition":  "typical",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5752,13 +5752,13 @@
         "trad":  "地理",
         "pinyin":  "dìlǐ",
         "definition":  "geography",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5769,13 +5769,13 @@
         "trad":  "地形",
         "pinyin":  "dìxíng",
         "definition":  "terrain",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5786,13 +5786,13 @@
         "trad":  "海",
         "pinyin":  "hǎi",
         "definition":  "ocean",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5803,13 +5803,13 @@
         "trad":  "路線",
         "pinyin":  "lùxiàn",
         "definition":  "route",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5820,13 +5820,13 @@
         "trad":  "旅客",
         "pinyin":  "lǚkè",
         "definition":  "Traveler",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5837,13 +5837,13 @@
         "trad":  "旅遊",
         "pinyin":  "lǚyóu",
         "definition":  "travel",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5854,13 +5854,13 @@
         "trad":  "馬路",
         "pinyin":  "mǎlù",
         "definition":  "road",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5871,13 +5871,13 @@
         "trad":  "面積",
         "pinyin":  "miànjī",
         "definition":  "area",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5888,13 +5888,13 @@
         "trad":  "墨西哥",
         "pinyin":  "mòxīgē",
         "definition":  "Mexico",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5905,13 +5905,13 @@
         "trad":  "沿海",
         "pinyin":  "yánhǎi",
         "definition":  "coastal",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5922,13 +5922,13 @@
         "trad":  "一帶",
         "pinyin":  "yīdài",
         "definition":  "Area",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5939,13 +5939,13 @@
         "trad":  "雲南",
         "pinyin":  "yúnnán",
         "definition":  "Yunnan",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5956,13 +5956,13 @@
         "trad":  "高原",
         "pinyin":  "gāoyuán",
         "definition":  "plateau",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5973,13 +5973,13 @@
         "trad":  "宮殿",
         "pinyin":  "gōngdiàn",
         "definition":  "palace",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -5990,13 +5990,13 @@
         "trad":  "購物",
         "pinyin":  "gòuwù",
         "definition":  "Shopping",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6007,13 +6007,13 @@
         "trad":  "古老",
         "pinyin":  "gǔlǎo",
         "definition":  "ancient",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6024,13 +6024,13 @@
         "trad":  "掛(著)",
         "pinyin":  "guà (zhe)",
         "definition":  "Hang ())",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6041,13 +6041,13 @@
         "trad":  "擺著",
         "pinyin":  "bǎizhe",
         "definition":  "Put on",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6058,13 +6058,13 @@
         "trad":  "海洋",
         "pinyin":  "hǎiyáng",
         "definition":  "ocean",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6075,13 +6075,13 @@
         "trad":  "畫畫",
         "pinyin":  "huà huà",
         "definition":  "draw",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6092,13 +6092,13 @@
         "trad":  "紀念品",
         "pinyin":  "jìniànpǐn",
         "definition":  "souvenir",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6109,13 +6109,13 @@
         "trad":  "減肥",
         "pinyin":  "jiǎnféi",
         "definition":  "lose weight",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6126,13 +6126,13 @@
         "trad":  "健身房",
         "pinyin":  "jiànshēnfáng",
         "definition":  "Gym",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6143,13 +6143,13 @@
         "trad":  "昆明",
         "pinyin":  "kūnmíng",
         "definition":  "Kunming",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6160,13 +6160,13 @@
         "trad":  "美麗",
         "pinyin":  "měilì",
         "definition":  "beauty",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6177,13 +6177,13 @@
         "trad":  "門票",
         "pinyin":  "ménpiào",
         "definition":  "Ticket",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6194,13 +6194,13 @@
         "trad":  "牛仔褲",
         "pinyin":  "niúzǎikù",
         "definition":  "jeans",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6211,13 +6211,13 @@
         "trad":  "爬山",
         "pinyin":  "páshān",
         "definition":  "climb mountains",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6228,13 +6228,13 @@
         "trad":  "奇怪",
         "pinyin":  "qíguài",
         "definition":  "strangeness",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6245,13 +6245,13 @@
         "trad":  "旗袍",
         "pinyin":  "qípáo",
         "definition":  "cheongsam",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6262,13 +6262,13 @@
         "trad":  "牆",
         "pinyin":  "qiáng",
         "definition":  "wall",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6279,13 +6279,13 @@
         "trad":  "圈",
         "pinyin":  "quān",
         "definition":  "lock up",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6296,13 +6296,13 @@
         "trad":  "人山人海",
         "pinyin":  "rén shān rén hǎi",
         "definition":  "huge crowds of people (lit. mountains and seas of people)",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6313,13 +6313,13 @@
         "trad":  "身材",
         "pinyin":  "shēncái",
         "definition":  "figure",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6330,13 +6330,13 @@
         "trad":  "省會",
         "pinyin":  "shěnghuì",
         "definition":  "provincial capital",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6347,13 +6347,13 @@
         "trad":  "濕",
         "pinyin":  "shī",
         "definition":  "wet",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6364,13 +6364,13 @@
         "trad":  "幹",
         "pinyin":  "gàn",
         "definition":  "Dry",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6381,13 +6381,13 @@
         "trad":  "時髦",
         "pinyin":  "shímáo",
         "definition":  "fashionable",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6398,13 +6398,13 @@
         "trad":  "假山",
         "pinyin":  "jiǎshān",
         "definition":  "rockery",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6415,13 +6415,13 @@
         "trad":  "石頭",
         "pinyin":  "shítou",
         "definition":  "Stone",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6432,13 +6432,13 @@
         "trad":  "石林",
         "pinyin":  "shílín",
         "definition":  "stone forest",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6449,13 +6449,13 @@
         "trad":  "園林",
         "pinyin":  "yuánlín",
         "definition":  "garden",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6466,13 +6466,13 @@
         "trad":  "絲綢",
         "pinyin":  "sīchóu",
         "definition":  "silk",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6483,13 +6483,13 @@
         "trad":  "四季如春",
         "pinyin":  "sìjì rú chūn",
         "definition":  "The four seasons are like spring",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6500,13 +6500,13 @@
         "trad":  "塔",
         "pinyin":  "tǎ",
         "definition":  "tower",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6517,13 +6517,13 @@
         "trad":  "太極拳",
         "pinyin":  "tàijí quán",
         "definition":  "Tai Chi",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6534,13 +6534,13 @@
         "trad":  "武術",
         "pinyin":  "wǔshù",
         "definition":  "Martial arts",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6551,13 +6551,13 @@
         "trad":  "藝術",
         "pinyin":  "yìshù",
         "definition":  "Art",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6568,13 +6568,13 @@
         "trad":  "毯子",
         "pinyin":  "tǎnzǐ",
         "definition":  "blanket",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6585,13 +6585,13 @@
         "trad":  "套裝",
         "pinyin":  "tàozhuāng",
         "definition":  "Set",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6602,13 +6602,13 @@
         "trad":  "特色",
         "pinyin":  "tèsè",
         "definition":  "feature",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6619,13 +6619,13 @@
         "trad":  "體貼",
         "pinyin":  "tǐtiē",
         "definition":  "Considerate",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6636,13 +6636,13 @@
         "trad":  "緯度",
         "pinyin":  "wěidù",
         "definition":  "latitude",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6653,13 +6653,13 @@
         "trad":  "溫度",
         "pinyin":  "wēndù",
         "definition":  "temperature",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6670,13 +6670,13 @@
         "trad":  "臥舖",
         "pinyin":  "wòpù",
         "definition":  "Sleeper",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6687,13 +6687,13 @@
         "trad":  "貓熊",
         "pinyin":  "xióngmāo",
         "definition":  "panda",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6704,13 +6704,13 @@
         "trad":  "修身養性",
         "pinyin":  "xiūshēnyǎngxìng",
         "definition":  "Self -cultivation",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6721,13 +6721,13 @@
         "trad":  "陰陽",
         "pinyin":  "yīnyáng",
         "definition":  "yin and yang",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6738,13 +6738,13 @@
         "trad":  "早晨",
         "pinyin":  "zǎochén",
         "definition":  "morning",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6755,13 +6755,13 @@
         "trad":  "展覽館",
         "pinyin":  "zhǎnlǎn guǎn",
         "definition":  "Exhibition hall",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6772,13 +6772,13 @@
         "trad":  "展廳",
         "pinyin":  "zhǎntīng",
         "definition":  "Exhibition hall",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6789,13 +6789,13 @@
         "trad":  "哲學",
         "pinyin":  "zhéxué",
         "definition":  "philosophy",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6806,13 +6806,13 @@
         "trad":  "枕頭",
         "pinyin":  "zhěntou",
         "definition":  "Pillow",
-        "chineseDef":  "Unit 3: 美与审美 (Beauty and Aesthetics) 重点词汇",
-        "unit":  "Unit 3: Beauty and Aesthetics",
-        "unitZh":  "Unit 3: 美与审美 (Beauty and Aesthetics)",
+        "chineseDef":  "Unit 3: 艺术与创意 (Art and Creativity) 重点词汇",
+        "unit":  "Unit 3: Art and Creativity",
+        "unitZh":  "Unit 3: 艺术与创意 (Art and Creativity)",
         "unitId":  "u3",
         "tags":  [
                      "AP Chinese",
-                     "Unit 3: 美与审美 (Beauty and Aesthetics)"
+                     "Unit 3: 艺术与创意 (Art and Creativity)"
                  ],
         "mastered":  false
     },
@@ -6823,13 +6823,13 @@
         "trad":  "部落格",
         "pinyin":  "bókè",
         "definition":  "blog",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6840,13 +6840,13 @@
         "trad":  "網絡",
         "pinyin":  "wǎngluò",
         "definition":  "network",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6857,13 +6857,13 @@
         "trad":  "微信",
         "pinyin":  "wēixìn",
         "definition":  "WeChat",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6874,13 +6874,13 @@
         "trad":  "支付寶",
         "pinyin":  "zhīfùbǎo",
         "definition":  "Alipay",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6891,13 +6891,13 @@
         "trad":  "利弊",
         "pinyin":  "lìbì",
         "definition":  "Prosperity",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6908,13 +6908,13 @@
         "trad":  "軟體",
         "pinyin":  "ruǎnjiàn",
         "definition":  "software",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6925,13 +6925,13 @@
         "trad":  "上癮",
         "pinyin":  "shàngyǐn",
         "definition":  "Addiction",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6942,13 +6942,13 @@
         "trad":  "網站",
         "pinyin":  "wǎngzhàn",
         "definition":  "website",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6959,13 +6959,13 @@
         "trad":  "網上銀行",
         "pinyin":  "wǎngshàng yínháng",
         "definition":  "online banking",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6976,13 +6976,13 @@
         "trad":  "下載",
         "pinyin":  "xiàzài",
         "definition":  "download",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -6993,13 +6993,13 @@
         "trad":  "新鮮",
         "pinyin":  "xīnxiān",
         "definition":  "Fresh",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7010,13 +7010,13 @@
         "trad":  "遊戲",
         "pinyin":  "yóuxì",
         "definition":  "game",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7027,13 +7027,13 @@
         "trad":  "影響",
         "pinyin":  "yǐngxiǎng",
         "definition":  "Influence",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7044,13 +7044,13 @@
         "trad":  "空調",
         "pinyin":  "kòngtiáo",
         "definition":  "air conditioner",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7061,13 +7061,13 @@
         "trad":  "冰箱",
         "pinyin":  "bīngxiāng",
         "definition":  "refrigerator",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7078,13 +7078,13 @@
         "trad":  "發短信",
         "pinyin":  "fā duǎnxìn",
         "definition":  "Send a text message",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7095,13 +7095,13 @@
         "trad":  "電車",
         "pinyin":  "diànchē",
         "definition":  "tram",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7112,13 +7112,13 @@
         "trad":  "計程車",
         "pinyin":  "jìchéngchē",
         "definition":  "taxi",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7129,13 +7129,13 @@
         "trad":  "船",
         "pinyin":  "chuán",
         "definition":  "Boat",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7146,13 +7146,13 @@
         "trad":  "火車",
         "pinyin":  "huǒchē",
         "definition":  "train",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7163,13 +7163,13 @@
         "trad":  "設計",
         "pinyin":  "shèjì",
         "definition":  "design",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7180,13 +7180,13 @@
         "trad":  "申請",
         "pinyin":  "shēnqǐng",
         "definition":  "Apply",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7197,13 +7197,13 @@
         "trad":  "烘乾機",
         "pinyin":  "hōng gān jī",
         "definition":  "Dryer",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7214,13 +7214,13 @@
         "trad":  "緯度",
         "pinyin":  "wěidù",
         "definition":  "latitude",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7231,13 +7231,13 @@
         "trad":  "洗衣機",
         "pinyin":  "xǐyījī",
         "definition":  "washing machine",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7248,13 +7248,13 @@
         "trad":  "新聞",
         "pinyin":  "xīnwén",
         "definition":  "news",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7265,13 +7265,13 @@
         "trad":  "發電",
         "pinyin":  "fādiàn",
         "definition":  "Generate electricity",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7282,13 +7282,13 @@
         "trad":  "發明",
         "pinyin":  "fāmíng",
         "definition":  "invention",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7299,13 +7299,13 @@
         "trad":  "活字印刷",
         "pinyin":  "huózì yìnshuā",
         "definition":  "Live printing",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7316,13 +7316,13 @@
         "trad":  "火藥",
         "pinyin":  "huǒyào",
         "definition":  "gunpowder",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7333,13 +7333,13 @@
         "trad":  "指南針",
         "pinyin":  "zhǐnánzhēn",
         "definition":  "compass",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7350,13 +7350,13 @@
         "trad":  "造紙",
         "pinyin":  "zàozhǐ",
         "definition":  "papermaking",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7367,13 +7367,13 @@
         "trad":  "記載",
         "pinyin":  "jìzǎi",
         "definition":  "Record",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7384,13 +7384,13 @@
         "trad":  "科學",
         "pinyin":  "kēxué",
         "definition":  "science",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7401,13 +7401,13 @@
         "trad":  "技術",
         "pinyin":  "jìshù",
         "definition":  "technology",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7418,13 +7418,13 @@
         "trad":  "熱水器",
         "pinyin":  "rèshuǐqì",
         "definition":  "Water heater",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7435,13 +7435,13 @@
         "trad":  "數位",
         "pinyin":  "shùwèi",
         "definition":  "digit",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7452,13 +7452,13 @@
         "trad":  "太陽",
         "pinyin":  "tàiyáng",
         "definition":  "sun",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7469,13 +7469,13 @@
         "trad":  "太陽能",
         "pinyin":  "tàiyángnéng",
         "definition":  "Solar",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7486,13 +7486,13 @@
         "trad":  "文明",
         "pinyin":  "wénmíng",
         "definition":  "civilization",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7503,13 +7503,13 @@
         "trad":  "先進",
         "pinyin":  "xiānjìn",
         "definition":  "advanced",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7520,13 +7520,13 @@
         "trad":  "短消息",
         "pinyin":  "duǎn xiāoxī",
         "definition":  "short message",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7537,13 +7537,13 @@
         "trad":  "資料",
         "pinyin":  "zīliào",
         "definition":  "material",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7554,13 +7554,13 @@
         "trad":  "自行車",
         "pinyin":  "zìxíngchē",
         "definition":  "bike",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7571,13 +7571,13 @@
         "trad":  "自助服務",
         "pinyin":  "zìzhù fúwù",
         "definition":  "self service",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7588,13 +7588,13 @@
         "trad":  "語音信箱",
         "pinyin":  "yǔyīn xìnxiāng",
         "definition":  "Voicemail",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7605,13 +7605,13 @@
         "trad":  "查詢",
         "pinyin":  "cháxún",
         "definition":  "Inquire",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7622,13 +7622,13 @@
         "trad":  "用戶",
         "pinyin":  "yònghù",
         "definition":  "user",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7639,13 +7639,13 @@
         "trad":  "密碼",
         "pinyin":  "mìmǎ",
         "definition":  "password",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7656,13 +7656,13 @@
         "trad":  "低頭族",
         "pinyin":  "dītóu zú",
         "definition":  "Head",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7673,13 +7673,13 @@
         "trad":  "智慧型手機",
         "pinyin":  "shǒujī",
         "definition":  "cell phone",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7690,13 +7690,13 @@
         "trad":  "訊號",
         "pinyin":  "xìnhào",
         "definition":  "Signal",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7707,13 +7707,13 @@
         "trad":  "人工智慧",
         "pinyin":  "réngōng zhìnéng",
         "definition":  "AI",
-        "chineseDef":  "Unit 4: 科学与技术 (Science and Technology) 重点词汇",
+        "chineseDef":  "Unit 4: 科学与科技 (Science and Technology) 重点词汇",
         "unit":  "Unit 4: Science and Technology",
-        "unitZh":  "Unit 4: 科学与技术 (Science and Technology)",
+        "unitZh":  "Unit 4: 科学与科技 (Science and Technology)",
         "unitId":  "u4",
         "tags":  [
                      "AP Chinese",
-                     "Unit 4: 科学与技术 (Science and Technology)"
+                     "Unit 4: 科学与科技 (Science and Technology)"
                  ],
         "mastered":  false
     },
@@ -7724,13 +7724,13 @@
         "trad":  "幫忙",
         "pinyin":  "bāngmáng",
         "definition":  "help",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7741,13 +7741,13 @@
         "trad":  "幫助",
         "pinyin":  "bāngzhù",
         "definition":  "help",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7758,13 +7758,13 @@
         "trad":  "抱怨",
         "pinyin":  "bàoyuàn",
         "definition":  "complain",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7775,13 +7775,13 @@
         "trad":  "標準",
         "pinyin":  "biāozhǔn",
         "definition":  "standard",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7792,13 +7792,13 @@
         "trad":  "長江",
         "pinyin":  "chángjiāng",
         "definition":  "Yangtze",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7809,13 +7809,13 @@
         "trad":  "黃河",
         "pinyin":  "huánghé",
         "definition":  "Yellow River",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7826,13 +7826,13 @@
         "trad":  "超市",
         "pinyin":  "chāoshì",
         "definition":  "supermarket",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7843,13 +7843,13 @@
         "trad":  "吵架",
         "pinyin":  "chǎojià",
         "definition":  "quarrel",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7860,13 +7860,13 @@
         "trad":  "出差",
         "pinyin":  "chūchāi",
         "definition":  "On business trip",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7877,13 +7877,13 @@
         "trad":  "出發",
         "pinyin":  "chūfā",
         "definition":  "Set off",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7894,13 +7894,13 @@
         "trad":  "吹（了）",
         "pinyin":  "chuī (le)",
         "definition":  "Blow)",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7911,13 +7911,13 @@
         "trad":  "存款",
         "pinyin":  "cúnkuǎn",
         "definition":  "deposit",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7928,13 +7928,13 @@
         "trad":  "答應",
         "pinyin":  "dāyìng",
         "definition":  "promise",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7945,13 +7945,13 @@
         "trad":  "打交道",
         "pinyin":  "dǎjiāodào",
         "definition":  "Deal",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7962,13 +7962,13 @@
         "trad":  "打呼嚕",
         "pinyin":  "dǎ hūlū",
         "definition":  "Snoring",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7979,13 +7979,13 @@
         "trad":  "大男子主義",
         "pinyin":  "dà nánzǐ zhǔyì",
         "definition":  "Machismo",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -7996,13 +7996,13 @@
         "trad":  "道理",
         "pinyin":  "dàolǐ",
         "definition":  "reason",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8013,13 +8013,13 @@
         "trad":  "道歉",
         "pinyin":  "dàoqiàn",
         "definition":  "Apologize",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8030,13 +8030,13 @@
         "trad":  "地理",
         "pinyin":  "dìlǐ",
         "definition":  "geography",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8047,13 +8047,13 @@
         "trad":  "地形",
         "pinyin":  "dìxíng",
         "definition":  "terrain",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8064,13 +8064,13 @@
         "trad":  "棟",
         "pinyin":  "dòng",
         "definition":  "Build",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8081,13 +8081,13 @@
         "trad":  "丟三拉四",
         "pinyin":  "diū sān lā sì",
         "definition":  "Losing things",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8098,13 +8098,13 @@
         "trad":  "逗",
         "pinyin":  "dòu",
         "definition":  "tease",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8115,13 +8115,13 @@
         "trad":  "短期",
         "pinyin":  "duǎnqí",
         "definition":  "short term",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8132,13 +8132,13 @@
         "trad":  "鍛煉",
         "pinyin":  "duànliàn",
         "definition":  "exercise",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8149,13 +8149,13 @@
         "trad":  "對面",
         "pinyin":  "duìmiàn",
         "definition":  "opposite",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8166,13 +8166,13 @@
         "trad":  "愛好",
         "pinyin":  "àihào",
         "definition":  "Hobby",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8183,13 +8183,13 @@
         "trad":  "畢業",
         "pinyin":  "bìyè",
         "definition":  "graduate",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8200,13 +8200,13 @@
         "trad":  "遲到",
         "pinyin":  "chídào",
         "definition":  "be late",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8217,13 +8217,13 @@
         "trad":  "貸款",
         "pinyin":  "dàikuǎn",
         "definition":  "loan",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8234,13 +8234,13 @@
         "trad":  "讀書",
         "pinyin":  "dúshū",
         "definition":  "read",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8251,13 +8251,13 @@
         "trad":  "負擔",
         "pinyin":  "fùdān",
         "definition":  "burden",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8268,13 +8268,13 @@
         "trad":  "鋼琴",
         "pinyin":  "gāngqín",
         "definition":  "piano",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8285,13 +8285,13 @@
         "trad":  "翻譯",
         "pinyin":  "fānyì",
         "definition":  "translate",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8302,13 +8302,13 @@
         "trad":  "兒童",
         "pinyin":  "értóng",
         "definition":  "child",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8319,13 +8319,13 @@
         "trad":  "分手",
         "pinyin":  "fēnshǒu",
         "definition":  "separate",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8336,13 +8336,13 @@
         "trad":  "反對",
         "pinyin":  "fǎnduì",
         "definition":  "be opposed to",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8353,13 +8353,13 @@
         "trad":  "高中",
         "pinyin":  "gāozhōng",
         "definition":  "high school",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8370,13 +8370,13 @@
         "trad":  "火車",
         "pinyin":  "huǒchē",
         "definition":  "train",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8387,13 +8387,13 @@
         "trad":  "工資",
         "pinyin":  "gōngzī",
         "definition":  "salary",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8404,13 +8404,13 @@
         "trad":  "過節",
         "pinyin":  "guòjié",
         "definition":  "Holiday",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8421,13 +8421,13 @@
         "trad":  "家庭",
         "pinyin":  "jiātíng",
         "definition":  "family",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8438,13 +8438,13 @@
         "trad":  "家教",
         "pinyin":  "jiājiào",
         "definition":  "Tutor",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8455,13 +8455,13 @@
         "trad":  "家鄉",
         "pinyin":  "jiāxiāng",
         "definition":  "hometown",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8472,13 +8472,13 @@
         "trad":  "價格",
         "pinyin":  "jiàgé",
         "definition":  "price",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8489,13 +8489,13 @@
         "trad":  "價錢",
         "pinyin":  "jiàqián",
         "definition":  "Price",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8506,13 +8506,13 @@
         "trad":  "減輕",
         "pinyin":  "jiǎnqīng",
         "definition":  "Reducing",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8523,13 +8523,13 @@
         "trad":  "金融",
         "pinyin":  "jīnróng",
         "definition":  "finance",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8540,13 +8540,13 @@
         "trad":  "經驗",
         "pinyin":  "jīngyàn",
         "definition":  "experience",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8557,13 +8557,13 @@
         "trad":  "開學",
         "pinyin":  "kāixué",
         "definition":  "Start school",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8574,13 +8574,13 @@
         "trad":  "放學",
         "pinyin":  "fàngxué",
         "definition":  "School",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8591,13 +8591,13 @@
         "trad":  "開玩笑",
         "pinyin":  "kāiwánxiào",
         "definition":  "joke",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8608,13 +8608,13 @@
         "trad":  "空調",
         "pinyin":  "kòngtiáo",
         "definition":  "air conditioner",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8625,13 +8625,13 @@
         "trad":  "垃圾",
         "pinyin":  "lèsè",
         "definition":  "Rubbish",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8642,13 +8642,13 @@
         "trad":  "零食",
         "pinyin":  "língshí",
         "definition":  "snack",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8659,13 +8659,13 @@
         "trad":  "飲食",
         "pinyin":  "yǐnshí",
         "definition":  "diet",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8676,13 +8676,13 @@
         "trad":  "零用錢",
         "pinyin":  "língyòng qián",
         "definition":  "pocket money",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8693,13 +8693,13 @@
         "trad":  "旅遊",
         "pinyin":  "lǚyóu",
         "definition":  "travel",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8710,13 +8710,13 @@
         "trad":  "名牌",
         "pinyin":  "míngpái",
         "definition":  "famous brand",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8727,13 +8727,13 @@
         "trad":  "毛衣",
         "pinyin":  "máoyī",
         "definition":  "sweater",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8744,13 +8744,13 @@
         "trad":  "日用品",
         "pinyin":  "rìyòngpǐn",
         "definition":  "Daily necessities",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8761,13 +8761,13 @@
         "trad":  "生氣",
         "pinyin":  "shēngqì",
         "definition":  "angry",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8778,13 +8778,13 @@
         "trad":  "省錢",
         "pinyin":  "shěng qián",
         "definition":  "save money",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8795,13 +8795,13 @@
         "trad":  "洗衣機",
         "pinyin":  "xǐyījī",
         "definition":  "washing machine",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8812,13 +8812,13 @@
         "trad":  "賺錢",
         "pinyin":  "zhuànqián",
         "definition":  "make money",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8829,13 +8829,13 @@
         "trad":  "現金",
         "pinyin":  "xiànjīn",
         "definition":  "cash",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8846,13 +8846,13 @@
         "trad":  "牙膏",
         "pinyin":  "yágāo",
         "definition":  "toothpaste",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8863,13 +8863,13 @@
         "trad":  "鑰匙",
         "pinyin":  "yàoshi",
         "definition":  "key",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8880,13 +8880,13 @@
         "trad":  "衣櫃",
         "pinyin":  "yīguì",
         "definition":  "Wardrobe",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8897,13 +8897,13 @@
         "trad":  "禮物",
         "pinyin":  "lǐwù",
         "definition":  "Gift",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8914,13 +8914,13 @@
         "trad":  "牛仔褲",
         "pinyin":  "niúzǎikù",
         "definition":  "jeans",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8931,13 +8931,13 @@
         "trad":  "牌子",
         "pinyin":  "páizǐ",
         "definition":  "brand",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8948,13 +8948,13 @@
         "trad":  "清淡",
         "pinyin":  "qīngdàn",
         "definition":  "Light",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8965,13 +8965,13 @@
         "trad":  "清蒸",
         "pinyin":  "qīngzhēng",
         "definition":  "Steamed",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8982,13 +8982,13 @@
         "trad":  "輕鬆",
         "pinyin":  "qīngsōng",
         "definition":  "easy",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -8999,13 +8999,13 @@
         "trad":  "生活",
         "pinyin":  "shēnghuó",
         "definition":  "Life",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9016,13 +9016,13 @@
         "trad":  "時髦",
         "pinyin":  "shímáo",
         "definition":  "fashionable",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9033,13 +9033,13 @@
         "trad":  "時代",
         "pinyin":  "shídài",
         "definition":  "era",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9050,13 +9050,13 @@
         "trad":  "適合",
         "pinyin":  "shìhé",
         "definition":  "Suitable",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9067,13 +9067,13 @@
         "trad":  "適應",
         "pinyin":  "shìyìng",
         "definition":  "adapt",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9084,13 +9084,13 @@
         "trad":  "書本",
         "pinyin":  "shūběn",
         "definition":  "book",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9101,13 +9101,13 @@
         "trad":  "數字",
         "pinyin":  "shùzì",
         "definition":  "number",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9118,13 +9118,13 @@
         "trad":  "四季如春",
         "pinyin":  "sìjì rú chūn",
         "definition":  "The four seasons are like spring",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9135,13 +9135,13 @@
         "trad":  "態度",
         "pinyin":  "tàidù",
         "definition":  "manner",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9152,13 +9152,13 @@
         "trad":  "談",
         "pinyin":  "tán",
         "definition":  "talk",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9169,13 +9169,13 @@
         "trad":  "毯子",
         "pinyin":  "tǎnzǐ",
         "definition":  "blanket",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9186,13 +9186,13 @@
         "trad":  "討論",
         "pinyin":  "tǎolùn",
         "definition":  "discuss",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9203,13 +9203,13 @@
         "trad":  "T恤衫",
         "pinyin":  "t xùshān",
         "definition":  "T -shirt",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9220,13 +9220,13 @@
         "trad":  "童年",
         "pinyin":  "tóngnián",
         "definition":  "childhood",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9237,13 +9237,13 @@
         "trad":  "外賣",
         "pinyin":  "wài mài",
         "definition":  "takeout food / food delivery",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9254,13 +9254,13 @@
         "trad":  "衛生紙",
         "pinyin":  "wèishēngzhǐ",
         "definition":  "toilet paper",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9271,13 +9271,13 @@
         "trad":  "文具",
         "pinyin":  "wénjù",
         "definition":  "Stationery",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9288,13 +9288,13 @@
         "trad":  "文學",
         "pinyin":  "wénxué",
         "definition":  "literature",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9305,13 +9305,13 @@
         "trad":  "文章",
         "pinyin":  "wénzhāng",
         "definition":  "article",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9322,13 +9322,13 @@
         "trad":  "屋子",
         "pinyin":  "wūzǐ",
         "definition":  "room",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9339,13 +9339,13 @@
         "trad":  "物價廉美",
         "pinyin":  "wù jià lián měi",
         "definition":  "Cheap",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9356,13 +9356,13 @@
         "trad":  "咸",
         "pinyin":  "xián",
         "definition":  "salty",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9373,13 +9373,13 @@
         "trad":  "嫌",
         "pinyin":  "xián",
         "definition":  "Dislike",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9390,13 +9390,13 @@
         "trad":  "相處",
         "pinyin":  "xiāngchǔ",
         "definition":  "get along",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9407,13 +9407,13 @@
         "trad":  "安全",
         "pinyin":  "ānquán",
         "definition":  "Safety",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9424,13 +9424,13 @@
         "trad":  "出生",
         "pinyin":  "chūshēng",
         "definition":  "born",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9441,13 +9441,13 @@
         "trad":  "純棉",
         "pinyin":  "chún mián",
         "definition":  "Cotton",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9458,13 +9458,13 @@
         "trad":  "待",
         "pinyin":  "dài",
         "definition":  "treat",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9475,13 +9475,13 @@
         "trad":  "發生",
         "pinyin":  "fāshēng",
         "definition":  "occur",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9492,13 +9492,13 @@
         "trad":  "敢",
         "pinyin":  "gǎn",
         "definition":  "dare",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9509,13 +9509,13 @@
         "trad":  "感覺",
         "pinyin":  "gǎnjué",
         "definition":  "Feel",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9526,13 +9526,13 @@
         "trad":  "害",
         "pinyin":  "hài",
         "definition":  "Harmful",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9543,13 +9543,13 @@
         "trad":  "好處",
         "pinyin":  "hǎochù",
         "definition":  "benefit",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9560,13 +9560,13 @@
         "trad":  "建議",
         "pinyin":  "jiànyì",
         "definition":  "suggestion",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9577,13 +9577,13 @@
         "trad":  "將來",
         "pinyin":  "jiānglái",
         "definition":  "future",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9594,13 +9594,13 @@
         "trad":  "交朋友",
         "pinyin":  "jiāo péngyǒu",
         "definition":  "make friends",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9611,13 +9611,13 @@
         "trad":  "借",
         "pinyin":  "jiè",
         "definition":  "borrow",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9628,13 +9628,13 @@
         "trad":  "開朗",
         "pinyin":  "kāilǎng",
         "definition":  "Cheerful",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9645,13 +9645,13 @@
         "trad":  "考慮",
         "pinyin":  "kǎolǜ",
         "definition":  "consider",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9662,13 +9662,13 @@
         "trad":  "老是",
         "pinyin":  "lǎo shì",
         "definition":  "always",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9679,13 +9679,13 @@
         "trad":  "理解",
         "pinyin":  "lǐjiě",
         "definition":  "understand",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9696,13 +9696,13 @@
         "trad":  "良好",
         "pinyin":  "liánghǎo",
         "definition":  "good",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9713,13 +9713,13 @@
         "trad":  "落伍",
         "pinyin":  "luòwǔ",
         "definition":  "Outdoor",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9730,13 +9730,13 @@
         "trad":  "馬虎",
         "pinyin":  "mǎhǔ",
         "definition":  "careless",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9747,13 +9747,13 @@
         "trad":  "毛巾",
         "pinyin":  "máojīn",
         "definition":  "towel",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9764,13 +9764,13 @@
         "trad":  "免費",
         "pinyin":  "miǎnfèi",
         "definition":  "free",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9781,13 +9781,13 @@
         "trad":  "名牌（兒）",
         "pinyin":  "míngpái (er)",
         "definition":  "Famous brand (child)",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9798,13 +9798,13 @@
         "trad":  "欠",
         "pinyin":  "qiàn",
         "definition":  "owe",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9815,13 +9815,13 @@
         "trad":  "收入",
         "pinyin":  "shōurù",
         "definition":  "income",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9832,13 +9832,13 @@
         "trad":  "香",
         "pinyin":  "xiāng",
         "definition":  "fragrant",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9849,13 +9849,13 @@
         "trad":  "心",
         "pinyin":  "xīn",
         "definition":  "Heart",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9866,13 +9866,13 @@
         "trad":  "主意",
         "pinyin":  "zhǔyì",
         "definition":  "idea",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9883,13 +9883,13 @@
         "trad":  "主要",
         "pinyin":  "zhǔyào",
         "definition":  "main",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9900,13 +9900,13 @@
         "trad":  "便當",
         "pinyin":  "héfàn",
         "definition":  "box lunch",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9917,13 +9917,13 @@
         "trad":  "領導",
         "pinyin":  "lǐngdǎo",
         "definition":  "lead",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9934,13 +9934,13 @@
         "trad":  "麻將",
         "pinyin":  "májiàng",
         "definition":  "Mahjong",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9951,13 +9951,13 @@
         "trad":  "碰見",
         "pinyin":  "pèngjiàn",
         "definition":  "meet",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9968,13 +9968,13 @@
         "trad":  "爬山",
         "pinyin":  "páshān",
         "definition":  "climb mountains",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -9985,13 +9985,13 @@
         "trad":  "親眼（看到）",
         "pinyin":  "qīnyǎn (kàn dào)",
         "definition":  "witness)",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -10002,13 +10002,13 @@
         "trad":  "勸",
         "pinyin":  "quàn",
         "definition":  "advise",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -10019,13 +10019,13 @@
         "trad":  "散步",
         "pinyin":  "sànbù",
         "definition":  "walk",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -10036,13 +10036,13 @@
         "trad":  "退休",
         "pinyin":  "tuì xiū",
         "definition":  "retire / retirement",
-        "chineseDef":  "Unit 5: 现代生活 (Contemporary Life) 重点词汇",
+        "chineseDef":  "Unit 5: 当代生活 (Contemporary Life) 重点词汇",
         "unit":  "Unit 5: Contemporary Life",
-        "unitZh":  "Unit 5: 现代生活 (Contemporary Life)",
+        "unitZh":  "Unit 5: 当代生活 (Contemporary Life)",
         "unitId":  "u5",
         "tags":  [
                      "AP Chinese",
-                     "Unit 5: 现代生活 (Contemporary Life)"
+                     "Unit 5: 当代生活 (Contemporary Life)"
                  ],
         "mastered":  false
     },
@@ -10053,13 +10053,13 @@
         "trad":  "保護",
         "pinyin":  "bǎohù",
         "definition":  "Protect",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10070,13 +10070,13 @@
         "trad":  "保留",
         "pinyin":  "bǎoliú",
         "definition":  "reserve",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10087,13 +10087,13 @@
         "trad":  "畢業",
         "pinyin":  "bìyè",
         "definition":  "graduate",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10104,13 +10104,13 @@
         "trad":  "變化",
         "pinyin":  "biànhuà",
         "definition":  "Variety",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10121,13 +10121,13 @@
         "trad":  "不堪設想",
         "pinyin":  "bùkānshèxiǎng",
         "definition":  "Unimplexed",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10138,13 +10138,13 @@
         "trad":  "兒童",
         "pinyin":  "értóng",
         "definition":  "child",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10155,13 +10155,13 @@
         "trad":  "貸款",
         "pinyin":  "dàikuǎn",
         "definition":  "loan",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10172,13 +10172,13 @@
         "trad":  "單位",
         "pinyin":  "dānwèi",
         "definition":  "unit",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10189,13 +10189,13 @@
         "trad":  "倒垃圾",
         "pinyin":  "dào lèsè",
         "definition":  "Dump",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10206,13 +10206,13 @@
         "trad":  "抵押",
         "pinyin":  "dǐyā",
         "definition":  "mortgage",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10223,13 +10223,13 @@
         "trad":  "地球",
         "pinyin":  "dìqiú",
         "definition":  "Earth",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10240,13 +10240,13 @@
         "trad":  "交朋友",
         "pinyin":  "jiāo péngyǒu",
         "definition":  "make friends",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10257,13 +10257,13 @@
         "trad":  "結婚",
         "pinyin":  "jiéhūn",
         "definition":  "marry",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10274,13 +10274,13 @@
         "trad":  "生子",
         "pinyin":  "shēngzǐ",
         "definition":  "Have children",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10291,13 +10291,13 @@
         "trad":  "留學",
         "pinyin":  "liúxué",
         "definition":  "Study abroad",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10308,13 +10308,13 @@
         "trad":  "社會",
         "pinyin":  "shèhuì",
         "definition":  "society",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10325,13 +10325,13 @@
         "trad":  "設計",
         "pinyin":  "shèjì",
         "definition":  "design",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10342,13 +10342,13 @@
         "trad":  "世界",
         "pinyin":  "shìjiè",
         "definition":  "world",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10359,13 +10359,13 @@
         "trad":  "稅",
         "pinyin":  "shuì",
         "definition":  "Tax",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10376,13 +10376,13 @@
         "trad":  "壓力",
         "pinyin":  "yālì",
         "definition":  "pressure",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10393,13 +10393,13 @@
         "trad":  "移民",
         "pinyin":  "yímín",
         "definition":  "migrant",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10410,13 +10410,13 @@
         "trad":  "英語",
         "pinyin":  "yīngyǔ",
         "definition":  "English",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10427,13 +10427,13 @@
         "trad":  "看法",
         "pinyin":  "kànfǎ",
         "definition":  "view",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10444,13 +10444,13 @@
         "trad":  "想法",
         "pinyin":  "xiǎngfǎ",
         "definition":  "idea",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10461,13 +10461,13 @@
         "trad":  "人口",
         "pinyin":  "rénkǒu",
         "definition":  "population",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10478,13 +10478,13 @@
         "trad":  "人山人海",
         "pinyin":  "rén shān rén hǎi",
         "definition":  "huge crowds of people (lit. mountains and seas of people)",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10495,13 +10495,13 @@
         "trad":  "新生",
         "pinyin":  "xīnshēng",
         "definition":  "newborn",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10512,13 +10512,13 @@
         "trad":  "重男輕女",
         "pinyin":  "zhòngnán qīng nǚ",
         "definition":  "Pilotype",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10529,13 +10529,13 @@
         "trad":  "油",
         "pinyin":  "yóu",
         "definition":  "Oil",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10546,13 +10546,13 @@
         "trad":  "自由",
         "pinyin":  "zìyóu",
         "definition":  "free",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10563,13 +10563,13 @@
         "trad":  "自然",
         "pinyin":  "zìrán",
         "definition":  "nature",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10580,13 +10580,13 @@
         "trad":  "發達",
         "pinyin":  "fādá",
         "definition":  "developed",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10597,13 +10597,13 @@
         "trad":  "發展中",
         "pinyin":  "fāzhǎn zhōng",
         "definition":  "developing",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10614,13 +10614,13 @@
         "trad":  "反對",
         "pinyin":  "fǎnduì",
         "definition":  "be opposed to",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10631,13 +10631,13 @@
         "trad":  "輛",
         "pinyin":  "liàng",
         "definition":  "Vehicle",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10648,13 +10648,13 @@
         "trad":  "品質",
         "pinyin":  "zhìliàng",
         "definition":  "quality",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10665,13 +10665,13 @@
         "trad":  "風險",
         "pinyin":  "fēngxiǎn",
         "definition":  "risk",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10682,13 +10682,13 @@
         "trad":  "婦女",
         "pinyin":  "fùnǚ",
         "definition":  "Woman",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10699,13 +10699,13 @@
         "trad":  "負擔",
         "pinyin":  "fùdān",
         "definition":  "burden",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10716,13 +10716,13 @@
         "trad":  "改革開放",
         "pinyin":  "gǎigé kāifàng",
         "definition":  "Reform and Opening",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10733,13 +10733,13 @@
         "trad":  "蓋(房子)",
         "pinyin":  "gài (fángzǐ)",
         "definition":  "Build a house)",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10750,13 +10750,13 @@
         "trad":  "革命",
         "pinyin":  "gémìng",
         "definition":  "revolution",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10767,13 +10767,13 @@
         "trad":  "股票",
         "pinyin":  "gǔpiào",
         "definition":  "stock",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10784,13 +10784,13 @@
         "trad":  "故事",
         "pinyin":  "gùshì",
         "definition":  "story",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10801,13 +10801,13 @@
         "trad":  "合約",
         "pinyin":  "hétóng",
         "definition":  "contract",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10818,13 +10818,13 @@
         "trad":  "化學",
         "pinyin":  "huàxué",
         "definition":  "Chemical",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10835,13 +10835,13 @@
         "trad":  "環境",
         "pinyin":  "huánjìng",
         "definition":  "environment",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10852,13 +10852,13 @@
         "trad":  "回收",
         "pinyin":  "huíshōu",
         "definition":  "Recycle",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10869,13 +10869,13 @@
         "trad":  "交通",
         "pinyin":  "jiāotōng",
         "definition":  "transportation",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10886,13 +10886,13 @@
         "trad":  "擁擠",
         "pinyin":  "yǒngjǐ",
         "definition":  "Crowded",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10903,13 +10903,13 @@
         "trad":  "堵塞",
         "pinyin":  "dǔsè",
         "definition":  "Blocked",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10920,13 +10920,13 @@
         "trad":  "交流",
         "pinyin":  "jiāoliú",
         "definition":  "comminicate",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10937,13 +10937,13 @@
         "trad":  "節約",
         "pinyin":  "jiéyuē",
         "definition":  "save",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10954,13 +10954,13 @@
         "trad":  "解決",
         "pinyin":  "jiějué",
         "definition":  "solve",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10971,13 +10971,13 @@
         "trad":  "決定",
         "pinyin":  "juédìng",
         "definition":  "Decide",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -10988,13 +10988,13 @@
         "trad":  "進入",
         "pinyin":  "jìnrù",
         "definition":  "Enter",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11005,13 +11005,13 @@
         "trad":  "進行",
         "pinyin":  "jìnxíng",
         "definition":  "conduct",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11022,13 +11022,13 @@
         "trad":  "經濟",
         "pinyin":  "jīngjì",
         "definition":  "economy",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11039,13 +11039,13 @@
         "trad":  "空調",
         "pinyin":  "kòngtiáo",
         "definition":  "air conditioner",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11056,13 +11056,13 @@
         "trad":  "空氣",
         "pinyin":  "kōngqì",
         "definition":  "Air",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11073,13 +11073,13 @@
         "trad":  "利用",
         "pinyin":  "lìyòng",
         "definition":  "use",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11090,13 +11090,13 @@
         "trad":  "利息",
         "pinyin":  "lìxí",
         "definition":  "Interest",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11107,13 +11107,13 @@
         "trad":  "貿易",
         "pinyin":  "màoyì",
         "definition":  "trading",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11124,13 +11124,13 @@
         "trad":  "暖氣",
         "pinyin":  "nuǎnqì",
         "definition":  "Heating",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11141,13 +11141,13 @@
         "trad":  "女性",
         "pinyin":  "nǚxìng",
         "definition":  "female",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11158,13 +11158,13 @@
         "trad":  "貧窮",
         "pinyin":  "pínqióng",
         "definition":  "poverty",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11175,13 +11175,13 @@
         "trad":  "平等",
         "pinyin":  "píngděng",
         "definition":  "equality",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11192,13 +11192,13 @@
         "trad":  "公平",
         "pinyin":  "gōngpíng",
         "definition":  "fair",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11209,13 +11209,13 @@
         "trad":  "瓶裝水",
         "pinyin":  "píngzhuāng shuǐ",
         "definition":  "bottled water",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11226,13 +11226,13 @@
         "trad":  "企業",
         "pinyin":  "qǐyè",
         "definition":  "enterprise",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11243,13 +11243,13 @@
         "trad":  "簽",
         "pinyin":  "qiān",
         "definition":  "sign",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11260,13 +11260,13 @@
         "trad":  "取得",
         "pinyin":  "qǔdé",
         "definition":  "Obtain",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11277,13 +11277,13 @@
         "trad":  "取之不得",
         "pinyin":  "qǔ zhī bùdé",
         "definition":  "Be able to take it",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11294,13 +11294,13 @@
         "trad":  "剩餘",
         "pinyin":  "shèngyú",
         "definition":  "Surplus",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11311,13 +11311,13 @@
         "trad":  "剩下（來）",
         "pinyin":  "shèng xià (lái)",
         "definition":  "The rest (Come)",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11328,13 +11328,13 @@
         "trad":  "時代",
         "pinyin":  "shídài",
         "definition":  "era",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11345,13 +11345,13 @@
         "trad":  "石油",
         "pinyin":  "shíyóu",
         "definition":  "oil",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11362,13 +11362,13 @@
         "trad":  "市場",
         "pinyin":  "shìchǎng",
         "definition":  "market",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11379,13 +11379,13 @@
         "trad":  "收入",
         "pinyin":  "shōurù",
         "definition":  "income",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11396,13 +11396,13 @@
         "trad":  "薪水",
         "pinyin":  "xīnshuǐ",
         "definition":  "salary",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11413,13 +11413,13 @@
         "trad":  "數字",
         "pinyin":  "shùzì",
         "definition":  "number",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11430,13 +11430,13 @@
         "trad":  "同工同酬",
         "pinyin":  "tónggōngtóngchóu",
         "definition":  "Equal remuneration",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11447,13 +11447,13 @@
         "trad":  "競爭",
         "pinyin":  "jìngzhēng",
         "definition":  "compete",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11464,13 +11464,13 @@
         "trad":  "條件",
         "pinyin":  "tiáojiàn",
         "definition":  "condition",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11481,13 +11481,13 @@
         "trad":  "同事",
         "pinyin":  "tóngshì",
         "definition":  "colleague",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11498,13 +11498,13 @@
         "trad":  "統一",
         "pinyin":  "tǒngyī",
         "definition":  "Unite",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11515,13 +11515,13 @@
         "trad":  "投資",
         "pinyin":  "tóuzī",
         "definition":  "invest",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11532,13 +11532,13 @@
         "trad":  "危機",
         "pinyin":  "wéijī",
         "definition":  "crisis",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11549,13 +11549,13 @@
         "trad":  "污染",
         "pinyin":  "wūrǎn",
         "definition":  "pollute",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11566,13 +11566,13 @@
         "trad":  "穩定",
         "pinyin":  "wěndìng",
         "definition":  "Stablize",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11583,13 +11583,13 @@
         "trad":  "吸煙",
         "pinyin":  "xīyān",
         "definition":  "Smoke",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11600,13 +11600,13 @@
         "trad":  "現象",
         "pinyin":  "xiànxiàng",
         "definition":  "Phenomenon",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11617,13 +11617,13 @@
         "trad":  "享受",
         "pinyin":  "xiǎngshòu",
         "definition":  "enjoy",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11634,13 +11634,13 @@
         "trad":  "受到",
         "pinyin":  "shòudào",
         "definition":  "Suffer",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11651,13 +11651,13 @@
         "trad":  "消費",
         "pinyin":  "xiāofèi",
         "definition":  "Consumption",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11668,13 +11668,13 @@
         "trad":  "新聞",
         "pinyin":  "xīnwén",
         "definition":  "news",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11685,13 +11685,13 @@
         "trad":  "嚴肅",
         "pinyin":  "yánsù",
         "definition":  "serious",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11702,13 +11702,13 @@
         "trad":  "嚴重",
         "pinyin":  "yánzhòng",
         "definition":  "serious",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11719,13 +11719,13 @@
         "trad":  "嚴禁...",
         "pinyin":  "yánjìn",
         "definition":  "It is strictly forbidden ...",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11736,13 +11736,13 @@
         "trad":  "一次性",
         "pinyin":  "yīcì xìng",
         "definition":  "One -time",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11753,13 +11753,13 @@
         "trad":  "意見/主意",
         "pinyin":  "yìjiàn/zhǔyì",
         "definition":  "Opinion/idea",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11770,13 +11770,13 @@
         "trad":  "同意",
         "pinyin":  "tóngyì",
         "definition":  "agree",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11787,13 +11787,13 @@
         "trad":  "贊成",
         "pinyin":  "zànchéng",
         "definition":  "Approve",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11804,13 +11804,13 @@
         "trad":  "增加",
         "pinyin":  "zēngjiā",
         "definition":  "Increase",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11821,13 +11821,13 @@
         "trad":  "減少",
         "pinyin":  "jiǎnshǎo",
         "definition":  "reduce",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11838,13 +11838,13 @@
         "trad":  "政府",
         "pinyin":  "zhèngfǔ",
         "definition":  "government",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11855,13 +11855,13 @@
         "trad":  "逐漸",
         "pinyin":  "zhújiàn",
         "definition":  "gradually",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11872,13 +11872,13 @@
         "trad":  "主要",
         "pinyin":  "zhǔyào",
         "definition":  "main",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11889,13 +11889,13 @@
         "trad":  "注意",
         "pinyin":  "zhùyì",
         "definition":  "Notice",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11906,13 +11906,13 @@
         "trad":  "賺錢",
         "pinyin":  "zhuànqián",
         "definition":  "make money",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11923,13 +11923,13 @@
         "trad":  "存錢",
         "pinyin":  "cún qián",
         "definition":  "Save money",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11940,13 +11940,13 @@
         "trad":  "提供",
         "pinyin":  "tígōng",
         "definition":  "supply",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11957,13 +11957,13 @@
         "trad":  "城市化",
         "pinyin":  "chéngshì huà",
         "definition":  "Urbanization",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11974,13 +11974,13 @@
         "trad":  "人口密集",
         "pinyin":  "rénkǒu mìjí",
         "definition":  "Population",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -11991,13 +11991,13 @@
         "trad":  "集中",
         "pinyin":  "jízhōng",
         "definition":  "concentrated",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12008,13 +12008,13 @@
         "trad":  "新興，新型",
         "pinyin":  "xīnxīng, xīnxíng",
         "definition":  "Emerging, new model",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12025,13 +12025,13 @@
         "trad":  "老舊",
         "pinyin":  "lǎo jiù",
         "definition":  "Old",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12042,13 +12042,13 @@
         "trad":  "恐怕",
         "pinyin":  "kǒngpà",
         "definition":  "I am afraid",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12059,13 +12059,13 @@
         "trad":  "接近",
         "pinyin":  "jiējìn",
         "definition":  "near",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12076,13 +12076,13 @@
         "trad":  "跌",
         "pinyin":  "diē",
         "definition":  "fall",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12093,13 +12093,13 @@
         "trad":  "摔",
         "pinyin":  "shuāi",
         "definition":  "fall",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12110,13 +12110,13 @@
         "trad":  "退休",
         "pinyin":  "tuì xiū",
         "definition":  "retire / retirement",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     },
@@ -12127,13 +12127,13 @@
         "trad":  "老齡化",
         "pinyin":  "lǎo líng huà",
         "definition":  "aging (population)",
-        "chineseDef":  "Unit 6: 全球挑战 (Global Challenges) 重点词汇",
-        "unit":  "Unit 6: Global Challenges",
-        "unitZh":  "Unit 6: 全球挑战 (Global Challenges)",
+        "chineseDef":  "Unit 6: 全球脉络 (Global Contexts) 重点词汇",
+        "unit":  "Unit 6: Global Contexts",
+        "unitZh":  "Unit 6: 全球脉络 (Global Contexts)",
         "unitId":  "u6",
         "tags":  [
                      "AP Chinese",
-                     "Unit 6: 全球挑战 (Global Challenges)"
+                     "Unit 6: 全球脉络 (Global Contexts)"
                  ],
         "mastered":  false
     }

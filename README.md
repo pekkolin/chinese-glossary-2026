@@ -1,22 +1,22 @@
 # 《Chinese Glossary 2026》中文生词教学与学习网页工具
-## （集成 AP Chinese 官方全套 Unit 1 到 Unit 6 核心词汇库）
+## （集成 AP Chinese 官方全套 Unit 0 到 Unit 6 核心词汇库 · 共 837 词）
 
 > **专为中文作为第二语言（CSL/CFL）与 AP 中文教学设计的现代化全功能 Web 教学工具**  
-> 现已完整扩充并收录 **AP Chinese Unit 1 到 Unit 6 全套重点词汇** 以及原 `Chinese Glossary 2026.xlsx` 核心词汇（**共 728 词**），深度融合多模态第二语言习得（SLA）教学法。
+> 现已完整扩充并收录 **AP Chinese Unit 0 导论预备词库** 以及 **Unit 1 到 Unit 6 全套重点词汇**（**共 837 词**），深度融合多模态第二语言习得（SLA）教学法。
 
 ---
 
 ## 🌟 核心特色与教学价值
 
-### 1. 扩充整合 AP Chinese 官方全套 6 大主题（共 728 词）
-系统支持按具体教学单元进行精准筛选与专项练习：
-* 📖 **2026 基础核心词汇 (Core 2026)**：14 词
-* 👨‍👩‍👧 **Unit 1: Families in Societies (家庭与社会)**：153 词（如：独生子女、四世同堂、望子成龙、长幼有序等）
-* 🪪 **Unit 2: Personal and Public Identities (个人与公众身份)**：136 词
-* 🎨 **Unit 3: Beauty and Aesthetics (美与审美)**：112 词（如：名胜古迹、兵马俑、文房四宝等）
-* 🔬 **Unit 4: Science and Technology (科学与技术)**：53 词（如：移动支付、共享单车、高铁等）
-* 🏙️ **Unit 5: Contemporary Life (现代生活)**：137 词
-* 🌍 **Unit 6: Global Challenges (全球挑战)**：123 词（如：老龄化、保护环境、可持续发展等）
+### 1. 扩充整合 AP Chinese 官方全套 7 大主题单元（共 837 词）
+系统支持按具体教学单元进行精准筛选与专项练习，支持简体中文与繁體中文一键切换：
+* 📖 **Unit 0: Introduction (基础导论预备 / 基礎導論預備)**：123 词（高频过渡连接词、语法句型与副词，如：包括、本来、比如/比方说、必须、甚至、尽管、无论、其实等）
+* 👨‍👩‍👧 **Unit 1: Families and Communities (家庭与社区 / 家庭與社區)**：153 词（如：独生子女、四世同堂、望子成龙、长幼有序等）
+* 🗣️ **Unit 2: Language and Culture (语言与文化 / 語言與文化)**：136 词
+* 🎨 **Unit 3: Art and Creativity (艺术与创意 / 藝術與創意)**：112 词（如：名胜古迹、兵马俑、文房四宝等）
+* 🔬 **Unit 4: Science and Technology (科学与科技 / 科學與科技)**：53 词（如：移动支付、共享单车、高铁等）
+* 🏙️ **Unit 5: Contemporary Life (当代生活 / 當代生活)**：137 词
+* 🌍 **Unit 6: Global Contexts (全球脉络 / 全球脈絡)**：123 词（如：老龄化、保护环境、可持续发展等）
 
 所有生词均经过高精度拼音音调矫正、文化成语专业双语精译、简繁双字形对照及主题标签分类。
 
@@ -61,7 +61,7 @@
 
 ```text
 中文生词学习/
-├── Chinese Glossary 2026.xlsx                          # 原始核心词汇表
+├── AP Chinese Vocabulary Bank By Unit Introduction.xlsx # AP Unit 0 导论原始表
 ├── AP Chinese Unit 1 Vocabulary Families in Societies.xlsx       # AP Unit 1 原始表
 ├── AP Chinese Unit 2 Vocabulary Personal and Public Identities.xlsx # AP Unit 2 原始表
 ├── AP Chinese Unit 3 Vocabulary Beauty and Aesthetics .xlsx       # AP Unit 3 原始表
@@ -73,8 +73,8 @@
 │   └── style.css                                       # 现代化样式表（单元标签/田字格/打印优化）
 ├── js/
 │   ├── ap_data.js                                      # AP Chinese Unit 1-6 完整词库 (714 词)
-│   ├── data.js                                         # 2026 基础核心词库与数据聚合导出接口
+│   ├── data.js                                         # Unit 0 基础导论预备词库 (123 词) 与数据聚合导出接口
 │   ├── pinyin_dict.js                                  # 拼音字典与智能联想引擎（优先匹配 AP 词库）
-│   └── app.js                                          # 交互逻辑、单元过滤、发音、测验与练习单主逻辑
+│   └── app.js                                          # 交互逻辑、单元过滤、简繁切换、测验与练习单主逻辑
 └── README.md                                           # 综合使用与教学说明文档
 ```

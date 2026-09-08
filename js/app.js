@@ -209,6 +209,7 @@
       charModeSelect.addEventListener('change', (e) => {
         settings.charMode = e.target.value;
         saveSettings();
+        updateUnitSelectLabels(settings.charMode);
         renderGlossaryTable();
         if (settings.activeTab === 'pane-flashcards') renderFlashcard();
         if (settings.activeTab === 'pane-worksheet') renderWorksheet();
@@ -473,6 +474,51 @@
 
     const speechRateSelect = document.getElementById('select-speech-rate');
     if (speechRateSelect) speechRateSelect.value = settings.speechRate.toString();
+
+    updateUnitSelectLabels(settings.charMode);
+  }
+
+  function getFormattedUnitTitle(unitId, fallback = '', charMode = 'simp') {
+    const isTrad = charMode === 'trad';
+    const map = {
+      u0: isTrad ? "Unit 0: 基礎導論預備 (Introduction)" : "Unit 0: 基础导论预备 (Introduction)",
+      core: isTrad ? "Unit 0: 基礎導論預備 (Introduction)" : "Unit 0: 基础导论预备 (Introduction)",
+      u1: isTrad ? "Unit 1: 家庭與社區 (Families & Communities)" : "Unit 1: 家庭与社区 (Families and Communities)",
+      u2: isTrad ? "Unit 2: 語言與文化 (Language & Culture)" : "Unit 2: 语言与文化 (Language and Culture)",
+      u3: isTrad ? "Unit 3: 藝術與創意 (Art & Creativity)" : "Unit 3: 艺术与创意 (Art and Creativity)",
+      u4: isTrad ? "Unit 4: 科學與科技 (Science & Technology)" : "Unit 4: 科学与科技 (Science and Technology)",
+      u5: isTrad ? "Unit 5: 當代生活 (Contemporary Life)" : "Unit 5: 当代生活 (Contemporary Life)",
+      u6: isTrad ? "Unit 6: 全球脈絡 (Global Contexts)" : "Unit 6: 全球脉络 (Global Contexts)"
+    };
+    if (unitId && map[unitId]) {
+      return map[unitId];
+    }
+    return fallback || '';
+  }
+
+  function updateUnitSelectLabels(charMode = 'simp') {
+    const isTrad = charMode === 'trad';
+    const unitLabels = {
+      all: isTrad ? "📚 全套詞彙庫 (All Units · 837 詞)" : "📚 全套词汇库 (All Units · 837 词)",
+      u0: isTrad ? "📖 Unit 0: 基礎導論預備 (Introduction · 123 詞)" : "📖 Unit 0: 基础导论预备 (Introduction · 123 词)",
+      u1: isTrad ? "👨‍👩‍👧 Unit 1: 家庭與社區 (153 詞)" : "👨‍👩‍👧 Unit 1: 家庭与社区 (153 词)",
+      u2: isTrad ? "🗣️ Unit 2: 語言與文化 (136 詞)" : "🗣️ Unit 2: 语言与文化 (136 词)",
+      u3: isTrad ? "🎨 Unit 3: 藝術與創意 (112 詞)" : "🎨 Unit 3: 艺术与创意 (112 词)",
+      u4: isTrad ? "🔬 Unit 4: 科學與科技 (53 詞)" : "🔬 Unit 4: 科学与科技 (53 词)",
+      u5: isTrad ? "🏙️ Unit 5: 當代生活 (137 詞)" : "🏙️ Unit 5: 当代生活 (137 词)",
+      u6: isTrad ? "🌍 Unit 6: 全球脈絡 (123 詞)" : "🌍 Unit 6: 全球脉络 (123 词)"
+    };
+
+    const selectIds = ['filter-unit', 'select-card-unit', 'select-quiz-unit', 'select-worksheet-unit'];
+    selectIds.forEach(id => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      Array.from(el.options).forEach(opt => {
+        if (unitLabels[opt.value]) {
+          opt.textContent = unitLabels[opt.value];
+        }
+      });
+    });
   }
 
   function switchTab(tabId) {
@@ -562,7 +608,9 @@
       const matchDef = item.definition && item.definition.toLowerCase().includes(query);
       const matchCDef = item.chineseDef && item.chineseDef.includes(query);
       const matchUnit = (item.unitZh && item.unitZh.toLowerCase().includes(query)) ||
-                        (item.unit && item.unit.toLowerCase().includes(query));
+                        (item.unit && item.unit.toLowerCase().includes(query)) ||
+                        getFormattedUnitTitle(item.unitId, '', 'simp').toLowerCase().includes(query) ||
+                        getFormattedUnitTitle(item.unitId, '', 'trad').toLowerCase().includes(query);
       return matchWord || matchSimp || matchTrad || matchPinyin || matchDef || matchCDef || matchUnit;
     });
 
@@ -587,8 +635,9 @@
 
       // Unit badge
       const unitClass = `badge-unit badge-unit-${item.unitId || 'u0'}`;
-      const unitTagHtml = item.unitZh
-        ? `<div style="margin-top: 5px;"><span class="${unitClass}">${item.unitZh}</span></div>`
+      const unitDisplayTitle = getFormattedUnitTitle(item.unitId, item.unitZh, settings.charMode);
+      const unitTagHtml = unitDisplayTitle
+        ? `<div style="margin-top: 5px;"><span class="${unitClass}">${unitDisplayTitle}</span></div>`
         : '';
 
       // Pronunciation link to Wiktionary (as in original sheet)
@@ -942,7 +991,7 @@
       : `<div class="card-pinyin pinyin-hidden" title="点击悬浮查看">${item.pinyin || ''}</div>`;
 
     const unitBadgeHtml = item.unitZh
-      ? `<span class="badge-unit badge-unit-${item.unitId || 'u0'}">${item.unitZh}</span>`
+      ? `<span class="badge-unit badge-unit-${item.unitId || 'u0'}">${getFormattedUnitTitle(item.unitId, item.unitZh, settings.charMode)}</span>`
       : '';
 
     const cardHeader = (modeText) => `
@@ -1392,16 +1441,17 @@
     if (filter === 'review') words = words.filter(w => !w.mastered);
     else if (filter === 'mastered') words = words.filter(w => w.mastered);
 
+    const isTrad = settings.charMode === 'trad';
     const unitNames = {
-      "all": "全套词库 (All 837 Words)",
-      "u0": "Unit 0: 基础导论预备 (Introduction)",
-      "core": "Unit 0: 基础导论预备 (Introduction)",
-      "u1": "Unit 1: 家庭与社会 (Families in Societies)",
-      "u2": "Unit 2: 个人与公众身份 (Personal and Public Identities)",
-      "u3": "Unit 3: 美与审美 (Beauty and Aesthetics)",
-      "u4": "Unit 4: 科学与技术 (Science and Technology)",
-      "u5": "Unit 5: 现代生活 (Contemporary Life)",
-      "u6": "Unit 6: 全球挑战 (Global Challenges)"
+      "all": isTrad ? "全套詞彙庫 (All 837 Words)" : "全套词库 (All 837 Words)",
+      "u0": isTrad ? "Unit 0: 基礎導論預備 (Introduction)" : "Unit 0: 基础导论预备 (Introduction)",
+      "core": isTrad ? "Unit 0: 基礎導論預備 (Introduction)" : "Unit 0: 基础导论预备 (Introduction)",
+      "u1": isTrad ? "Unit 1: 家庭與社區 (Families and Communities)" : "Unit 1: 家庭与社区 (Families and Communities)",
+      "u2": isTrad ? "Unit 2: 語言與文化 (Language and Culture)" : "Unit 2: 语言与文化 (Language and Culture)",
+      "u3": isTrad ? "Unit 3: 藝術與創意 (Art and Creativity)" : "Unit 3: 艺术与创意 (Art and Creativity)",
+      "u4": isTrad ? "Unit 4: 科學與科技 (Science and Technology)" : "Unit 4: 科学与科技 (Science and Technology)",
+      "u5": isTrad ? "Unit 5: 當代生活 (Contemporary Life)" : "Unit 5: 当代生活 (Contemporary Life)",
+      "u6": isTrad ? "Unit 6: 全球脈絡 (Global Contexts)" : "Unit 6: 全球脉络 (Global Contexts)"
     };
     const unitTitle = unitNames[unitFilter] || unitFilter;
 
